@@ -1,5 +1,6 @@
-Trending:
-  template: { name: Chart, num: 2 }
-  tmdb_trending_daily: 10
-  tmdb_trending_weekly: 10
-  summary: Movies trending across the internet
+collections:
+  Trending:
+    template: { name: Chart, num: 2 }
+    tmdb_trending_daily: 10
+    tmdb_trending_weekly: 10
+    summary: Movies trending across the internet
