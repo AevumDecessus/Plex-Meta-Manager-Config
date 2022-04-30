@@ -1,0 +1,31 @@
+templates:
+  Chart:
+    sort_title: +1_<<num>><<collection_name>>
+    sync_mode: sync
+  Genre:
+    sort_title: +5_<<num>><<collection_name>>
+    collection_order: alpha
+collections:
+  Plex Popular:
+    template: { name: Chart, num: 1 }
+    sync_mode: sync
+    tautulli_popular:
+      list_days: 30
+      list_size: 20
+      list_buffer: 20
+    tautulli_watched:
+      list_days: 30
+      list_size: 20
+      list_buffer: 20
+    summary: TV Shows Tending on Files Please Ignore
+  Trending:
+    template: { name: Chart, num: 2 }
+    smart_label: originally_available.desc
+    sync_mode: sync
+    trakt_trending: 40
+    summary: Shows Trending across the internet
+    item_asets: false
+    url_poster: https://imgur.com/4bglXqV
+    visible_home: true
+    visible_shared: true
+    visible_library: true
