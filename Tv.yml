@@ -25,7 +25,7 @@ collections:
     trakt_trending: 40
     summary: Shows Trending across the internet
     item_asets: false
-    url_poster: https://imgur.com/4bglXqV
+    url_poster: https://imgur.com/4bglXqV.png
     visible_home: true
     visible_shared: true
     visible_library: true
