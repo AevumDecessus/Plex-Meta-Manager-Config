@@ -11,6 +11,7 @@ playlists:
     sync_mode: sync
     libraries: Movies, TV
     trakt_list: https://trakt.tv/users/donxy/lists/arrowverse?sort=rank,asc
+    url_poster: https://imgur.com/t0AAEh4
     summary: Arrow Universe Cannon
   X-Men Movies Chronological Order:
     url_poster: https://imgur.com/SDliKrF
@@ -54,4 +55,3 @@ playlists:
     sync_mode: sync
     libraries: Movies, TV
     trakt_list: https://trakt.tv/users/gapunk78/lists/hunger-games?sort=rank,asc
-    url_poster: https://imgur.com/t0AAEh4
