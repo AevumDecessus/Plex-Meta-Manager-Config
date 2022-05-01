@@ -17,17 +17,17 @@ playlists:
     url_poster: https://imgur.com/SDliKrF.png
     sync_to_users: all
     sync_mode: sync
-    libraries: Movies, TV
+    libraries: Movies
     trakt_list: https://trakt.tv/users/donxy/lists/x-men-universe?sort=rank,asc
-  James Bond Movies Chronological Order:
-    url_poster: https://imgur.com/D32fFj3.png
-    sync_to_users: all
-    sync_mode: sync
-    libraries: Movies, TV
-    trakt_list: https://trakt.tv/users/any/lists/james-bond?sort=rank,asc
   Jurassic Park Movies Chronological Order:
     url_poster: https://imgur.com/OGGfRwb.png
     sync_to_users: all
     sync_mode: sync
-    libraries: Movies, TV
+    libraries: Movies
     trakt_list: https://trakt.tv/users/iamgabriel/lists/jurassic?sort=rank,asc
+  Wizarding World Chronological:
+    url_poster: https://theposterdb.com/api/assets/20343
+    sync_to_users: all
+    sync_mode: sync
+    libraries: Movies
+    trakt_list: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order?sort=rank,asc
