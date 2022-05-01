@@ -1,3 +1,5 @@
+external_templates:
+  repo: templates/Templates
 collections:
   Suggested Anime:
     template: { name: Chart, num: 1 }
@@ -5,17 +7,18 @@ collections:
     sync_mode: sync
     smart_label: release.desc
   Popular Anime:
-    temmplate: { name: Chart, num: 2 }
+    template: { name: Chart, num: 2 }
     mal_popular: 20
     anidb_popular: 20
     anilist_popular: 20
     summary: Popular Anime Across the Internet
   Current Anime Season:
     template: { name: Chart, num: 3 }
-    anilist_season:
-      sort_by: popular
+    anilist_search:
+      season: current
+      adult: false
       limit: 100
-      sync_mode: sync
+    sync_mode: sync
   Top Rated Anime:
     template: { name: Chart, num: 4 }
     anilist_top_rated: 50
