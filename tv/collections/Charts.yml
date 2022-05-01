@@ -1,10 +1,5 @@
-templates:
-  Chart:
-    sort_title: +1_<<num>><<collection_name>>
-    sync_mode: sync
-  Genre:
-    sort_title: +5_<<num>><<collection_name>>
-    collection_order: alpha
+external_templates:
+  repo: templates/Templates
 collections:
   Plex Popular:
     template: { name: Chart, num: 1 }
