@@ -4,26 +4,26 @@ playlists:
   Marvel Cinematic Universe:
     template:
       name: TraktPlaylist
-      trakt_list: donxy/lists/marvel-cinematic/universe
+      trakt: donxy/lists/marvel-cinematic/universe
       poster_id: 9772
     libraries: Movies, TV
     summary: Marvel Cinematic Universe Chronological Order
   ArrowVerse:
     template:
       name: TraktPlaylist
-      trakt_list: donxy/lists/arrowverse
+      trakt: donxy/lists/arrowverse
       poster_id: 31153 
     libraries: Movies, TV
     summary: Arrow Universe Cannon
   X-Men Movies Chronological Order:
     template:
       name: TraktPlaylist
-      trakt_list: donxy/lists/x-men-universe
+      trakt: donxy/lists/x-men-universe
       poster_id: 146723
     libraries: Movies
   Wizarding World Chronological:
     template:
       name: TraktPlaylist
-      trakt_list: jonshel91/lists/wizarding-world-chronological-order
+      trakt: jonshel91/lists/wizarding-world-chronological-order
       poster_id: 166278
     libraries: Movies

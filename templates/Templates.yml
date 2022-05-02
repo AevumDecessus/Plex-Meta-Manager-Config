@@ -18,9 +18,9 @@ templates:
   TraktPlaylist:
     optional:
       - poster_id
-    sort_title: <<collection_name>>
+    sort_title: <<playlist_name>>
     sync_mode: sync
-    trakt_list: https://trakt.tv/users/<<trakt_list>>?sort=rank,asc
+    trakt_list: https://trakt.tv/users/<<trakt>>?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
   Person:
     smart_filter:
