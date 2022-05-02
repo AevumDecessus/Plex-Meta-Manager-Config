@@ -1,27 +1,29 @@
+external_templates:
+  repo: templates/Templates
 playlists:
   Marvel Cinematic Universe:
-    sync_to_users: all
-    sync_mode: sync
+    template:
+      name: TraktPlaylist
+      trakt_list: donxy/lists/marvel-cinematic/universe
+      poster_id: 9772
     libraries: Movies, TV
-    trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe?sort=rank,asc
     summary: Marvel Cinematic Universe Chronological Order
-    url_poster: https://imgur.com/cx4CpKo.png
   ArrowVerse:
-    sync_to_users: all
-    sync_mode: sync
+    template:
+      name: TraktPlaylist
+      trakt_list: donxy/lists/arrowverse
+      poster_id: 31153 
     libraries: Movies, TV
-    trakt_list: https://trakt.tv/users/donxy/lists/arrowverse?sort=rank,asc
-    url_poster: https://imgur.com/t0AAEh4.png
     summary: Arrow Universe Cannon
   X-Men Movies Chronological Order:
-    url_poster: https://imgur.com/SDliKrF.png
-    sync_to_users: all
-    sync_mode: sync
+    template:
+      name: TraktPlaylist
+      trakt_list: donxy/lists/x-men-universe
+      poster_id: 146723
     libraries: Movies
-    trakt_list: https://trakt.tv/users/donxy/lists/x-men-universe?sort=rank,asc
   Wizarding World Chronological:
-    url_poster: https://theposterdb.com/api/assets/20343
-    sync_to_users: all
-    sync_mode: sync
+    template:
+      name: TraktPlaylist
+      trakt_list: jonshel91/lists/wizarding-world-chronological-order
+      poster_id: 166278
     libraries: Movies
-    trakt_list: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order?sort=rank,asc
