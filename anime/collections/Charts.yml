@@ -16,7 +16,6 @@ collections:
     template: { name: Chart, num: 3 }
     anilist_search:
       season: current
-      adult: false
       limit: 100
     sync_mode: sync
   Top Rated Anime:
