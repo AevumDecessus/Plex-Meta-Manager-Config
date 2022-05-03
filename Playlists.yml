@@ -1,29 +1,27 @@
-external_templates:
-  repo: templates/Templates
 playlists:
   Marvel Cinematic Universe:
-    template:
-      name: TraktPlaylist
-      trakt: donxy/lists/marvel-cinematic/universe
-      poster_id: 9772
+    trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/9772
     libraries: Movies, TV
+    sync_mode: sync
+    sync_to_users: all
     summary: Marvel Cinematic Universe Chronological Order
   ArrowVerse:
-    template:
-      name: TraktPlaylist
-      trakt: donxy/lists/arrowverse
-      poster_id: 31153 
+    trakt_list: https://trakt.tv/users/donxy/lists/arrowverse?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/31153 
     libraries: Movies, TV
+    sync_mode: sync
+    sync_to_users: all
     summary: Arrow Universe Cannon
   X-Men Movies Chronological Order:
-    template:
-      name: TraktPlaylist
-      trakt: donxy/lists/x-men-universe
-      poster_id: 146723
+    trakt_list: https://trakt.tv/users/donxy/lists/x-men-universe?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/146723
     libraries: Movies
+    sync_mode: sync
+    sync_to_users: all
   Wizarding World Chronological:
-    template:
-      name: TraktPlaylist
-      trakt: jonshel91/lists/wizarding-world-chronological-order
-      poster_id: 166278
+    trakt_list: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/166278
     libraries: Movies
+    sync_mode: sync
+    sync_to_users: all
