@@ -53,6 +53,7 @@ templates:
       genre_id: <<genre_id>>
     show_missing: false
     save_missing: false
+    collection_order: alpha
   Genre:
     sort_title: +91_<<num>><<collection_name>>
     smart_filter:
@@ -63,6 +64,7 @@ templates:
     visible_library: true
     show_missing: false
     save_missing: false
+    collection_order: alpha
   Studio:
     sort_title: +96_<<collection_name>>
     optional:
