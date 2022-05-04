@@ -46,7 +46,7 @@ templates:
   MAL Genre:
     optional:
       - poster_id
-    sort_title: +15_<<collection_name>>
+    sort_title: +91_<<collection_name>>
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
     mal_genre:
@@ -54,7 +54,7 @@ templates:
     show_missing: false
     save_missing: false
   Genre:
-    sort_title: +15_<<num>><<collection_name>>
+    sort_title: +91_<<num>><<collection_name>>
     smart_filter:
       sort_by: release.desc
       validate: true
@@ -64,7 +64,7 @@ templates:
     show_missing: false
     save_missing: false
   Studio:
-    sort_title: +25_<<collection_name>>
+    sort_title: +96_<<collection_name>>
     optional:
       - company
       - poster_id
