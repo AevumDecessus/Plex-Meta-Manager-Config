@@ -13,9 +13,8 @@ templates:
     visible_library: true
     visible_shared: true
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
-    settings:
-      show_missing: false
-      save_missing: false
+    show_missing: false
+    save_missing: false
   Chart:
     optional:
       - poster_id
@@ -42,9 +41,8 @@ templates:
     tmdb_person: <<person>>
     sort_title: +6_<<collection_name>>
     visible_library: true
-    settings:
-      show_missing: false
-      save_missing: false
+    show_missing: false
+    save_missing: false
   MAL Genre:
     optional:
       - poster_id
@@ -53,23 +51,18 @@ templates:
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
     mal_genre:
       genre_id: <<genre_id>>
-    collection order: alpha
-    settings:
-      show_missing: false
-      save_missing: false
+    show_missing: false
+    save_missing: false
   Genre:
     sort_title: +15_<<num>><<collection_name>>
-    collection_order: alpha
-    collection_mode: hide
     smart_filter:
       sort_by: release.desc
       validate: true
       any:
         genre: <<genre>>
     visible_library: true
-    settings:
-      show_missing: false
-      save_missing: false
+    show_missing: false
+    save_missing: false
   Studio:
     sort_title: +25_<<collection_name>>
     optional:
@@ -80,9 +73,8 @@ templates:
     smart_label: release.desc
     visible_library: true
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
-    settings:
-      show_missing: false
-      save_missing: false
+    show_missing: false
+    save_missing: false
   Series:
     optional:
       - poster_id
@@ -92,6 +84,5 @@ templates:
     collection_mode: hide_items
     collection_order: release
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
-    settings:
-      show_missing: true
-      save_missing: true
+    show_missing: true
+    save_missing: true
