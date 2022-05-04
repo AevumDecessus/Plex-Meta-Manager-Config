@@ -10,11 +10,16 @@ templates:
     schedule: range(<<start_date>>-<<end_date>>)
     delete_not_scheduled: true
     visible_home: true
+    visible_library: true
     visible_shared: true
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
   Chart:
+    optional:
+      - poster_id
     sort_title: +1_<<num>><<collection_name>>
     sync_mode: sync
+    visible_library: true
+    url_poster: https://theposterdb.com/api/assets/<<poster_id>>
   TraktPlaylist:
     optional:
       - poster_id
@@ -33,6 +38,7 @@ templates:
       validate: false
     tmdb_person: <<person>>
     sort_title: +6_<<collection_name>>
+    visible_library: true
   Genre:
     sort_title: +15_<<num>><<collection_name>>
     collection_order: alpha
@@ -42,10 +48,14 @@ templates:
       validate: true
       any:
         genre: <<genre>>
+    visible_library: true
   Studio:
     sort_title: +25_<<collection_name>>
     optional:
       - company
+      - poster_id
     collection_mode: hide
     sync_mode: sync
     smart_label: release.desc
+    visible_library: true
+    url_poster: https://theposterdb.com/api/assets/<<poster_id>>
