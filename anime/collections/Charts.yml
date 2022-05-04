@@ -6,20 +6,31 @@ collections:
     mal_suggested: 50
     sync_mode: sync
     smart_label: release.desc
+  Plex Popular:
+    template: { name: Chart, num: 2, poster_id: 136359 }
+    tautulli_popular:
+      list_days: 30
+      list_size: 20
+      list_buffer: 20
+    tautulli_watched:
+      list_days: 30
+      list_size: 20
+      list_buffer: 20
+    summary: Popular Anime here on Files Please Ignore
   Popular Anime:
-    template: { name: Chart, num: 2 }
+    template: { name: Chart, num: 3, poster_id: 231642 }
     mal_popular: 20
     anidb_popular: 20
     anilist_popular: 20
     summary: Popular Anime Across the Internet
   Current Anime Season:
-    template: { name: Chart, num: 3 }
+    template: { name: Chart, num: 3, poster_id: 231632 }
     anilist_search:
       season: current
       limit: 100
       adult: false
     sync_mode: sync
   Top Rated Anime:
-    template: { name: Chart, num: 4 }
+    template: { name: Chart, num: 4, poster_id: 231631 }
     anilist_top_rated: 50
     summary: Top Rated Anime Across the Internet
