@@ -70,7 +70,6 @@ templates:
     optional:
       - company
       - poster_id
-    collection_mode: hide
     sync_mode: sync
     smart_label: release.desc
     visible_library: true
@@ -82,7 +81,6 @@ templates:
     sort_title: +96_<<collection_name>>
     optional:
       - poster_id
-    collection_mode: hide
     sync_mode: sync
     smart_label: release.desc
     visible_library: true
