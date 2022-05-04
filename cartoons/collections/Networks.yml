@@ -1,0 +1,18 @@
+external_templates:
+  repo: templates/Templates
+collections:
+  Adult Swim:
+    template:
+      name: Network
+      networks: 80
+      poster_id: 98825
+  Cartoon Network:
+    template:
+      name: Network
+      networks: "56, 217, 1232, 1483, 2193, 3917, 4771"
+      poster_id: 91266
+  Fox Kids:
+    template:
+      name: Network
+      networks: "2686"
+      poster_id: 215340

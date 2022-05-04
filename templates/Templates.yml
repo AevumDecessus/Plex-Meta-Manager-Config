@@ -78,6 +78,19 @@ templates:
     show_missing: false
     save_missing: false
     collection_order: alpha
+  Network:
+    sort_title: +96_<<collection_name>>
+    optional:
+      - poster_id
+    collection_mode: hide
+    sync_mode: sync
+    smart_label: release.desc
+    visible_library: true
+    tmdb_network: <<networks>>
+    url_poster: https://theposterdb.com/api/assets/<<poster_id>>
+    show_missing: false
+    save_missing: false
+    collection_order: alpha
   Series:
     optional:
       - poster_id
