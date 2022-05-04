@@ -1,0 +1,71 @@
+external_templates:
+  repo: templates/Templates
+collections:
+  Cars:
+    template: { name: MAL Genre, genre_id: 3 }
+  Demons:
+    template: { name: MAL Genre, genre_id: 6, poster_id: 231635 }
+  Game:
+    template: { name: MAL Genre, genre_id: 11, poster_id: 231628 }
+  Mecha:
+    template: { name: MAL Genre, genre_id: 18 }
+  Military:
+    template: { name: MAL Genre, genre_id: 38 }
+  Psychological:
+    template: { name: MAL Genre, genre_id: 40 }
+  Samurai:
+    template: { name: MAL Genre, genre_id: 21, poster_id: 231626 }
+  School:
+    template: { name: MAL Genre, genre_id: 23 }
+  Shoujo:
+    template: { name: MAL Genre, genre_id: 25 }
+  Shounen:
+    template: { name: MAL Genre, genre_id: 27 }
+  Slice of Life:
+    template: { name: MAL Genre, genre_id: 36, poster_id: 231647}
+  Space:
+    template: { name: MAL Genre, genre_id: 29, poster_id: 231648 }
+  Supernatural:
+    template: { name: MAL Genre, genre_id: 37 }
+  Super Power:
+    template: { name: MAL Genre, genre_id: 31 }
+  Vampire:
+    template: { name: MAL Genre, genre_id: 32, poster_id: 231618 }
+  Action:
+    template: { name: MAL Genre, genre_id: 1, poster_id: 231619 }
+  Adventure:
+    template: { name: MAL Genre, genre_id: 2, poster_id: 231620 }
+  Comedy:
+    template: { name: MAL Genre, genre_id: 4, poster_id: 231634 }
+  Drama:
+    template: { name: MAL Genre, genre_id: 8, poster_id: 231627 }
+  Fantasy:
+    template: { name: MAL Genre, genre_id: 10, poster_id: 231622 }
+  Historical:
+    template: { name: MAL Genre, genre_id: 13, poster_id: 231638 }
+  Horror:
+    template: { name: MAL Genre, genre_id: 14, poster_id: 231639 }
+  Martial Arts:
+    template: { name: MAL Genre, genre_id: 17, poster_id: 231641 }
+  Music:
+    template: { name: MAL Genre, genre_id: 19, poster_id: 231624 }
+  Mystery:
+    template: { name: MAL Genre, genre_id: 7, poster_id: 231623 }
+  Romance:
+    template: { name: MAL Genre, genre_id: 22, poster_id: 231646 }
+  Sci-Fi:
+    template: { name: MAL Genre, genre_id: 24, poster_id: 231640 }
+  Sports:
+    template: { name: MAL Genre, genre_id: 30, poster_id: 231625 }
+  Boys Love:
+    template: { name: MAL Genre, genre_id: 28 }
+  Girls Love:
+    template: { name: MAL Genre, genre_id: 26 }
+  Gourmet:
+    template: { name: MAL Genre, genre_id: 47, poster_id: 231629 }
+  Parody:
+    template: { name: MAL Genre, genre_id: 20 }
+  Police:
+    template: { name: MAL Genre, genre_id: 39 }
+  Thriller:
+    template: { name: MAL Genre, genre_id: 41, poster_id: 231621 }
