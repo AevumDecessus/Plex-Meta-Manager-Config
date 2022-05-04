@@ -90,7 +90,6 @@ templates:
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
     show_missing: false
     save_missing: false
-    collection_order: alpha
   Series:
     optional:
       - poster_id
