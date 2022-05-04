@@ -8,7 +8,7 @@ collections:
   Game:
     template: { name: MAL Genre, genre_id: 11, poster_id: 231628 }
   Mecha:
-    template: { name: MAL Genre, genre_id: 18 }
+    template: { name: MAL Genre, genre_id: 18, poster_id: 213668 }
   Military:
     template: { name: MAL Genre, genre_id: 38 }
   Psychological:
@@ -26,15 +26,15 @@ collections:
   Space:
     template: { name: MAL Genre, genre_id: 29, poster_id: 231648 }
   Supernatural:
-    template: { name: MAL Genre, genre_id: 37 }
+    template: { name: MAL Genre, genre_id: 37, poster_id: 213670}
   Super Power:
-    template: { name: MAL Genre, genre_id: 31 }
+    template: { name: MAL Genre, genre_id: 31, poster_id: 213659 }
   Vampire:
     template: { name: MAL Genre, genre_id: 32, poster_id: 231618 }
   Action:
     template: { name: MAL Genre, genre_id: 1, poster_id: 231619 }
   Adventure:
-    template: { name: MAL Genre, genre_id: 2, poster_id: 231620 }
+    template: { name: MAL Genre, genre_id: 2, poster_id: 213632 }
   Comedy:
     template: { name: MAL Genre, genre_id: 4, poster_id: 231634 }
   Drama:
@@ -57,10 +57,6 @@ collections:
     template: { name: MAL Genre, genre_id: 24, poster_id: 231640 }
   Sports:
     template: { name: MAL Genre, genre_id: 30, poster_id: 231625 }
-  Boys Love:
-    template: { name: MAL Genre, genre_id: 28 }
-  Girls Love:
-    template: { name: MAL Genre, genre_id: 26 }
   Gourmet:
     template: { name: MAL Genre, genre_id: 47, poster_id: 231629 }
   Parody:
