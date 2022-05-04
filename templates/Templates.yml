@@ -39,6 +39,15 @@ templates:
     tmdb_person: <<person>>
     sort_title: +6_<<collection_name>>
     visible_library: true
+  MAL Genre:
+    optional:
+      - poster_id
+    sort_title: +15_<<collection_name>>
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/<<poster_id>>
+    mal_genre:
+      genre_id: <<genre_id>>
+    collection order: alpha
   Genre:
     sort_title: +15_<<num>><<collection_name>>
     collection_order: alpha
@@ -58,4 +67,13 @@ templates:
     sync_mode: sync
     smart_label: release.desc
     visible_library: true
+    url_poster: https://theposterdb.com/api/assets/<<poster_id>>
+  Series:
+    optional:
+      - poster_id
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    visible_library: true
+    collection_mode: hide_items
+    collection_order: release
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
