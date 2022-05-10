@@ -14,6 +14,8 @@ collections:
     template: { name: Standard, collection: 131295, poster_id: 162381 }
   "Captain Marvel":
     template: { name: Standard, collection: 623911, poster_id: 162387 }
+  "Deadpool":
+    template: { name: Standard, collection: 448150, poster_id: 171133 }
   "Doctor Strange": 
     template: { name: Standard, collection: 618529, poster_id: 162388 }
   "Guardians of the Galaxy":
@@ -21,7 +23,7 @@ collections:
   "Iron Man":
     template: { name: Standard, collection: 131292, poster_id: 162395 }
   "Marvel Cinematic Universe":
-    template: { name: Standard, collection: 8194961, poster_id: 162417 }
+    template: { name: Standard, list: 8194961, poster_id: 162417 }
   "Spider-Man":
     template: { name: Standard, collection: 556, poster_id: 171148 }
   "Amazing Spider-Man":
@@ -30,5 +32,9 @@ collections:
     template: { name: Standard, collection: 531241, poster_id: 171853 }
   "Thor":
     template: { name: Standard, collection: 131296, poster_id: 162406 }
+  "Venom":
+    template: { name: Standard, collection: 558216, poster_id: 162407 }
+  "Wolverine":
+    template: { name: Standard, collection: 453993, poster_id: 171121 }
   "X-Men":
     template: { name: Standard, collection: 748, poster_id: 171112 }
