@@ -4,5 +4,13 @@
 external_templates:
   repo: templates/Templates
 collections:
+  "The Fast and the Furious":
+    template: { name: Standard, collection: 9485, poster_id: 164783 }
+  "The Hunger Games":
+    template: { name: Standard, collection: 131635, poster_id: 163851 }
+  "The Matrix":
+    template: { name: Standard, collection: 2344, poster_id: 52761}
+  "Underworld":
+    template: { name: Standard, collection: 2326, poster_id: 161852 }
   "Veggie Tales":
     template: { name: Standard, list: 8201803, poster_id: 232477 }
