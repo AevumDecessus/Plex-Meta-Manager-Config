@@ -1,0 +1,8 @@
+###################################
+# Miscellaneous Collections       #
+###################################
+external_templates:
+  repo: templates/Templates
+collections:
+  "Veggie Tales":
+    template: { name: Standard, list: 8201803, poster_id: 232477 }
