@@ -26,7 +26,10 @@ templates:
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
     schedule: weekly(sunday)
   Standard:
-    move_prefix: A, An, The
+    move_prefix: 
+      - A
+      - An
+      - The
     default:
       order: release
     optional:
