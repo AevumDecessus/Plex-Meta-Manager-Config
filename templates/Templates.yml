@@ -22,6 +22,27 @@ templates:
     sync_mode: sync
     visible_library: true
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
+  Standard:
+    optional:
+      - poster_id
+      - collection
+      - list
+      - imdb
+      - movie
+      - trakt
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>
+    imdb_list: <<imdb>>
+    trakt_list: <<trakt>>
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+    collecton_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/<<poster_id>>
   TraktPlaylist:
     optional:
       - poster_id
