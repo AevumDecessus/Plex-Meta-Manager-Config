@@ -1,5 +1,6 @@
 templates:
   Holiday:
+    move_prefix: A, An, The
     optional:
       - poster_id
     smart_label: title.asc
@@ -16,6 +17,7 @@ templates:
     show_missing: false
     save_missing: false
   Chart:
+    move_prefix: A, An, The
     optional:
       - poster_id
     sort_title: +1_<<num>><<collection_name>>
@@ -24,6 +26,9 @@ templates:
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
     schedule: weekly(sunday)
   Standard:
+    move_prefix: A, An, The
+    default:
+      order: release
     optional:
       - poster_id
       - collection
@@ -31,6 +36,7 @@ templates:
       - imdb
       - movie
       - trakt
+      - order
     sort_title: <<collection_name>>
     sync_mode: sync
     tmdb_collection: <<collection>>
@@ -42,9 +48,10 @@ templates:
     visible_home: false
     visible_shared: false
     collection_mode: hide_items
-    collection_order: release
+    collection_order: <<order>>
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
   TraktPlaylist:
+    move_prefix: A, An, The
     optional:
       - poster_id
     sort_title: <<playlist_name>>
@@ -52,6 +59,7 @@ templates:
     trakt_list: https://trakt.tv/users/<<trakt>>?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
   Person:
+    move_prefix: A, An, The
     smart_filter:
       any:
         actor: tmdb
@@ -66,6 +74,7 @@ templates:
     show_missing: false
     save_missing: false
   MAL Genre:
+    move_prefix: A, An, The
     optional:
       - poster_id
     sort_title: +91_<<collection_name>>
@@ -77,6 +86,7 @@ templates:
     save_missing: false
     collection_order: alpha
   Genre:
+    move_prefix: A, An, The
     sort_title: +91_<<num>><<collection_name>>
     smart_filter:
       sort_by: release.desc
@@ -88,6 +98,7 @@ templates:
     save_missing: false
     collection_order: alpha
   Studio:
+    move_prefix: A, An, The
     sort_title: +96_<<collection_name>>
     optional:
       - company
@@ -100,6 +111,7 @@ templates:
     save_missing: false
     collection_order: alpha
   Network:
+    move_prefix: A, An, The
     sort_title: +96_<<collection_name>>
     optional:
       - poster_id
@@ -111,6 +123,7 @@ templates:
     show_missing: false
     save_missing: false
   Series:
+    move_prefix: A, An, The
     optional:
       - poster_id
     sort_title: <<collection_name>>
