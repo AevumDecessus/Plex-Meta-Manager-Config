@@ -6,6 +6,7 @@ playlists:
     sync_mode: sync
     sync_to_users: all
     summary: Marvel Cinematic Universe Chronological Order
+    schedule: weekly(sunday)
   ArrowVerse:
     trakt_list: https://trakt.tv/users/donxy/lists/arrowverse?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/31153 
@@ -13,15 +14,18 @@ playlists:
     sync_mode: sync
     sync_to_users: all
     summary: Arrow Universe Cannon
+    schedule: weekly(sunday)
   X-Men Movies Chronological Order:
     trakt_list: https://trakt.tv/users/donxy/lists/x-men-universe?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/146723
     libraries: Movies
     sync_mode: sync
     sync_to_users: all
+    schedule: weekly(sunday)
   Wizarding World Chronological:
     trakt_list: https://trakt.tv/users/johnshel91/lists/wizarding-world-chronological-order?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/166278
     libraries: Movies
     sync_mode: sync
     sync_to_users: all
+    schedule: weekly(sunday)
