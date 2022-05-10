@@ -22,6 +22,7 @@ templates:
     sync_mode: sync
     visible_library: true
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
+    schedule: weekly(sunday)
   Standard:
     optional:
       - poster_id
