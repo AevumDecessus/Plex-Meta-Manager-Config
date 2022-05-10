@@ -1,0 +1,34 @@
+###################################
+# Marvel Based Collections        #
+###################################
+external_templates:
+  repo: templates/Templates
+collections:
+  "Ant-Man":
+    template: { name: Standard, collection: 422834, poster_id: 162374 }
+  "Avengers":
+    template: { name: Standard, collection: 86311, poster_id: 162376 }
+  "Black Panther":
+    template: { name: Standard, collection: 529892, poster_id: 162378 }
+  "Captain America":
+    template: { name: Standard, collection: 131295, poster_id: 162381 }
+  "Captain Marvel":
+    template: { name: Standard, collection: 623911, poster_id: 162387 }
+  "Doctor Strange": 
+    template: { name: Standard, collection: 618529, poster_id: 162388 }
+  "Guardians of the Galaxy":
+    template: { name: Standard, collection: 284433, poster_id: 162393 }
+  "Iron Man":
+    template: { name: Standard, collection: 131292, poster_id: 162395 }
+  "Marvel Cinematic Universe":
+    template: { name: Standard, collection: 8194961, poster_id: 162417 }
+  "Spider-Man":
+    template: { name: Standard, collection: 556, poster_id: 171148 }
+  "Amazing Spider-Man":
+    template: { name: Standard, collection: 125574, poster_id: 171152 }
+  "Spider-Man (Avengers)":
+    template: { name: Standard, collection: 531241, poster_id: 171853 }
+  "Thor":
+    template: { name: Standard, collection: 131296, poster_id: 162406 }
+  "X-Men":
+    template: { name: Standard, collection: 748, poster_id: 171112 }
