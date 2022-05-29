@@ -27,9 +27,9 @@ templates:
     schedule: weekly(sunday)
   Standard:
     move_prefix: 
-      - A
-      - An
-      - The
+      - "A "
+      - "An "
+      - "The "
     default:
       order: release
     optional:
