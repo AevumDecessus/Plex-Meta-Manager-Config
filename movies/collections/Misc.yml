@@ -4,12 +4,24 @@
 external_templates:
   repo: templates/Templates
 collections:
+  "The Addams Family (Animated)":
+    teamplate: { name: Standard, collection: 750822 }
+  "Fantastic Beasts":
+    template: { name: Standard, collection: 435259 }
   "The Fast and the Furious":
     template: { name: Standard, collection: 9485, poster_id: 164783 }
+  "Harry Potter":
+    template: { name: Standard, collection: 1241 }
+  "The Hobbit":
+    template: { name: Standard, collection: 121938 }
   "The Hunger Games":
     template: { name: Standard, collection: 131635, poster_id: 163851 }
+  "The Lord of the Rings":
+    template: { name: Standard, collection: 119 }
   "The Matrix":
     template: { name: Standard, collection: 2344, poster_id: 52761}
+  "The Santa Claus":
+    template: { name: Standard, collection: 53159 }
   "Underworld":
     template: { name: Standard, collection: 2326, poster_id: 161852 }
   "Veggie Tales":
