@@ -27,9 +27,9 @@ templates:
     schedule: weekly(sunday)
   Standard:
     move_prefix: 
-      - "A "
-      - "An "
-      - "The "
+      - A
+      - An
+      - The
     default:
       order: release
     optional:
@@ -84,6 +84,7 @@ templates:
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
     mal_genre:
+      limit: 250
       genre_id: <<genre_id>>
     show_missing: false
     save_missing: false
