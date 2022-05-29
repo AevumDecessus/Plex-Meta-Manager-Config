@@ -1,0 +1,11 @@
+###################################
+#       Studio Collections        #
+###################################
+external_templates:
+  repo: templates/Templates
+collections:
+  "Dreamworks Animation":
+    template: { name: Studio, company: 521 }
+  "Illumination Entertainment":
+    template: { name: Studio, company: 6704 }
+    test: true
