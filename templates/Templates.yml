@@ -7,7 +7,7 @@ templates:
     summary: |-
       A timed collection of <<collection_name>> and other movies
       {NOTE} this collection will dissapear after <<end_date>>
-    sort_title: +00_<<collection_name>>
+    sort_title: +00_<<collection_sort>>
     schedule: range(<<start_date>>-<<end_date>>)
     delete_not_scheduled: true
     visible_home: true
@@ -20,7 +20,7 @@ templates:
     move_prefix: A, An, The
     optional:
       - poster_id
-    sort_title: +1_<<num>><<collection_name>>
+    sort_title: +1_<<num>><<collection_sort>>
     sync_mode: sync
     visible_library: true
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
@@ -40,7 +40,7 @@ templates:
       - movie
       - trakt
       - order
-    sort_title: <<collection_name>>
+    sort_title: <<collection_sort>>
     sync_mode: sync
     tmdb_collection: <<collection>>
     tmdb_movie: <<movie>>
@@ -57,7 +57,7 @@ templates:
     move_prefix: A, An, The
     optional:
       - poster_id
-    sort_title: <<playlist_name>>
+    sort_title: <<playlist_sort>>
     sync_mode: sync
     trakt_list: https://trakt.tv/users/<<trakt>>?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
@@ -72,7 +72,7 @@ templates:
       sort_by: random
       validate: false
     tmdb_person: <<person>>
-    sort_title: +6_<<collection_name>>
+    sort_title: +6_<<collection_sort>>
     visible_library: true
     show_missing: false
     save_missing: false
@@ -80,7 +80,7 @@ templates:
     move_prefix: A, An, The
     optional:
       - poster_id
-    sort_title: +91_<<collection_name>>
+    sort_title: +91_<<collection_sort>>
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
     mal_genre:
@@ -90,7 +90,7 @@ templates:
     collection_order: alpha
   Genre:
     move_prefix: A, An, The
-    sort_title: +91_<<num>><<collection_name>>
+    sort_title: +91_<<num>><<collection_sort>>
     smart_filter:
       sort_by: release.desc
       validate: true
@@ -102,7 +102,7 @@ templates:
     collection_order: alpha
   Studio:
     move_prefix: A, An, The
-    sort_title: +96_<<collection_name>>
+    sort_title: +96_<<collection_sort>>
     optional:
       - company
       - poster_id
@@ -115,7 +115,7 @@ templates:
     collection_order: alpha
   Network:
     move_prefix: A, An, The
-    sort_title: +96_<<collection_name>>
+    sort_title: +96_<<collection_sort>>
     optional:
       - poster_id
     sync_mode: sync
@@ -129,7 +129,7 @@ templates:
     move_prefix: A, An, The
     optional:
       - poster_id
-    sort_title: <<collection_name>>
+    sort_title: <<collection_sort>>
     sync_mode: sync
     visible_library: true
     collection_mode: hide_items
