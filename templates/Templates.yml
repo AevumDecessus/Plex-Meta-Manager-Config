@@ -80,7 +80,7 @@ templates:
     move_prefix: A, An, The
     optional:
       - poster_id
-    sort_title: +91_<<collection_sort>>
+    sort_title: ~91_<<collection_sort>>
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
     mal_genre:
@@ -90,7 +90,7 @@ templates:
     collection_order: alpha
   Genre:
     move_prefix: A, An, The
-    sort_title: +91_<<num>><<collection_sort>>
+    sort_title: ~91_<<num>><<collection_sort>>
     smart_filter:
       sort_by: release.desc
       validate: true
@@ -102,7 +102,7 @@ templates:
     collection_order: alpha
   Studio:
     move_prefix: A, An, The
-    sort_title: +96_<<collection_sort>>
+    sort_title: ~96_<<collection_sort>>
     optional:
       - company
       - poster_id
@@ -115,7 +115,7 @@ templates:
     collection_order: alpha
   Network:
     move_prefix: A, An, The
-    sort_title: +96_<<collection_sort>>
+    sort_title: ~96_<<collection_sort>>
     optional:
       - poster_id
     sync_mode: sync
