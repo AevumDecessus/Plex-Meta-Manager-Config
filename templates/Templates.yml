@@ -110,6 +110,7 @@ templates:
     smart_label: release.desc
     visible_library: true
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
+    tmdb_company: <<company>>
     show_missing: false
     save_missing: false
     collection_order: alpha
