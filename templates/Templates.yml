@@ -113,7 +113,6 @@ templates:
     tmdb_company: <<company>>
     show_missing: false
     save_missing: false
-    collection_order: alpha
   Network:
     move_prefix: A, An, The
     sort_title: ~96_<<collection_sort>>
@@ -126,15 +125,3 @@ templates:
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
     show_missing: false
     save_missing: false
-  Series:
-    move_prefix: A, An, The
-    optional:
-      - poster_id
-    sort_title: <<collection_sort>>
-    sync_mode: sync
-    visible_library: true
-    collection_mode: hide_items
-    collection_order: release
-    url_poster: https://theposterdb.com/api/assets/<<poster_id>>
-    show_missing: true
-    save_missing: true
