@@ -4,8 +4,11 @@
 external_templates:
   repo: templates/Templates
 collections:
+  "Blue Sky Studios":
+    template: { name: Studio, company: 9383 }
   "Dreamworks Animation":
     template: { name: Studio, company: 521 }
   "Illumination Entertainment":
     template: { name: Studio, company: 6704 }
-    test: true
+  "Pixar Animation Studios":
+    template: { name: Studio, company: 3 }
