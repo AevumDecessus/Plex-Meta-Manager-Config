@@ -24,6 +24,10 @@ collections:
     template: { name: Standard, collection: 9888 }
   "The Hunger Games Collection":
     template: { name: Standard, collection: 131635 }
+  "John Wick Collection":
+    template: { name: Standard, collection: 404609 }
+  "Kingsman Collection":
+    template: { name: Standard, collection: 391860 }
   "The Lord of the Rings Collection"
     template: { name: Standard, collection: 119 }
   "Mad Max Collection":
@@ -36,6 +40,10 @@ collections:
     template: { name: Standard, collection: 53159 }
   "Sherlock Holmes Collection":
     template: { name: Standard, collection: 102322 }
+  "Shrek Collection":
+    template: { name: Standard, collection: 2150 }
+  "Taken Collection":
+    template: { name: Standard, collection: 135483 }
   "Tremors Collection":
     template: { name: Standard, collection: 91799 }
   "Underworld Collection":
