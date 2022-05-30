@@ -4,25 +4,41 @@
 external_templates:
   repo: templates/Templates
 collections:
-  "The Addams Family (Animated)":
-    teamplate: { name: Standard, collection: 750822 }
-  "Fantastic Beasts":
+  "The Addams Family (Animated) Collection":
+    template: { name: Standard, collection: 750822 }
+  "Alice in Wonderland Collection":
+    template: { name: Standard, collection: 261307 }
+  "Blade Runner Collection":
+    template: { name: Standard, collection: 422837 }
+  "The Expendables Collection":
+    template: { name: Standard, collection: 126125 }
+  "Fantastic Beasts Collection":
     template: { name: Standard, collection: 435259 }
-  "The Fast and the Furious":
+  "The Fast and the Furious Collection":
     template: { name: Standard, collection: 9485, poster_id: 164783 }
-  "Harry Potter":
+  "Harry Potter Collection":
     template: { name: Standard, collection: 1241 }
-  "The Hobbit":
+  "The Hobbit Collection":
     template: { name: Standard, collection: 121938 }
-  "The Hunger Games":
-    template: { name: Standard, collection: 131635, poster_id: 163851 }
-  "The Lord of the Rings":
+  "Home Alone Collection":
+    template: { name: Standard, collection: 9888 }
+  "The Hunger Games Collection":
+    template: { name: Standard, collection: 131635 }
+  "The Lord of the Rings Collection"
     template: { name: Standard, collection: 119 }
-  "The Matrix":
-    template: { name: Standard, collection: 2344, poster_id: 52761}
-  "The Santa Claus":
+  "Mad Max Collection":
+    template: { name: Standard, collection: 8945 }
+  "The Matrix Collection":
+    template: { name: Standard, collection: 2344 }
+  "Pacific Rim Collection":
+    template: { name: Standard, collection: 363369 }
+  "The Santa Claus Collection":
     template: { name: Standard, collection: 53159 }
-  "Underworld":
-    template: { name: Standard, collection: 2326, poster_id: 161852 }
-  "Veggie Tales":
-    template: { name: Standard, list: 8201803, poster_id: 232477 }
+  "Sherlock Holmes Collection":
+    template: { name: Standard, collection: 102322 }
+  "Tremors Collection":
+    template: { name: Standard, collection: 91799 }
+  "Underworld Collection":
+    template: { name: Standard, collection: 2326 }
+  "Veggie Tales Collection":
+    template: { name: Standard, list: 8201803 }
