@@ -23,7 +23,7 @@ collections:
   "Iron Man Collection":
     template: { name: Standard, collection: 131292}
   "Marvel Cinematic Universe Collection":
-    template: { name: Standard, list: 8194961, mode: show_items}
+    template: { name: Standard, list: 8194961, mode: default}
   "Spider-Man Collection":
     template: { name: Standard, collection: 556}
   "Amazing Spider-Man Collection":

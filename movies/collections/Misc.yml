@@ -8,12 +8,16 @@ collections:
     template: { name: Standard, collection: 750822 }
   "Alice in Wonderland Collection":
     template: { name: Standard, collection: 261307 }
+  "The Angry Birds Collection":
+    template: { name: Standard, collection: 531315 }
   "Bill & Ted's Most Excellent Collection":
     template: { name: Standard, collection: 91746 }
   "Blade Runner Collection":
     template: { name: Standard, collection: 422837 }
   "Cars Collection":
     template: { name: Standard, collection: 87118 }
+  "Cloudy With a Chance of Meatballs Collection":
+    template: { name: Standard, collection: 177467 }
   "Despicable Me Collection":
     template: { name: Standard, collection: 86066 }
   "Divergent Collection":
@@ -26,16 +30,24 @@ collections:
     template: { name: Standard, collection: 9485 }
   "Finding Nemo Collection":
     template: { name: Standard, collection: 137697 }
+  "Goosebumps Collection":
+    template: { name: Standard, collection: 508783 }
   "Harry Potter Collection":
     template: { name: Standard, collection: 1241 }
+  "The Hitman's Bodyguard Collection":
+    template: { name: Standard, collection: 608101 }
   "The Hobbit Collection":
     template: { name: Standard, collection: 121938 }
   "Home Alone Collection":
     template: { name: Standard, collection: 9888 }
+  "Hotel Transylvania Collection":
+    template: { name: Standard, collection: 185103 }
   "The Hunger Games Collection":
     template: { name: Standard, collection: 131635 }
   "The Incredibles Collection":
     template: { name: Standard, collection: 468222 }
+  "Indiana Jones Collection":
+    template: { name: Standard, collection: 84 }
   "John Wick Collection":
     template: { name: Standard, collection: 404609 }
   "Jumanji Collection":
@@ -56,12 +68,18 @@ collections:
     template: { name: Standard, collection: 137696 }
   "Monsterverse Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/tropicsbear/lists/monsterverse?sort=rank,asc" }
+  "Monty Python Collection":
+    template: { name: Standard, trakt: "https://trakt.tv/users/miester433/lists/monty-python-collection?sort=released,asc" }
   "Night at the Museum Collection":
     template: { name: Standard, collection: 85943 }
   "Now You See Me Collection":
-    template: {name: Standard, collection: 382685 }
+    template: { name: Standard, collection: 382685 }
+  "Open Season Collection":
+    template: { name: Standard, collection: 66761 }
   "Pacific Rim Collection":
     template: { name: Standard, collection: 363369 }
+  "Peter Rabbit Collection":
+    template: { name: Standard, collection: 595693 }
   "Planet of the Apes (Original) Collection":
     template: { name: Standard, collection: 1709 }
   "Planet of the Apes (Reboot) Collection":
@@ -78,6 +96,8 @@ collections:
     template: { name: Standard, collection: 2150 }
   "Sing Collection":
     template: { name: Standard, collection: 544670 }
+  "The Smurfs (Theatrical) Collection":
+    template: { name: Standard, collection: 134897 }
   "Taken Collection":
     template: { name: Standard, collection: 135483 }
   "Toy Story Collection":

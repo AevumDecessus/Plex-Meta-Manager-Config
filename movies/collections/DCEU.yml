@@ -11,4 +11,4 @@ collections:
   "Wonder Woman Collection":
     template: { name: Standard, collection: 468552 }
   "DC Cinematic Universe Collection":
-    template: { name: Standard, list: 7077561 , mode: show_items} 
+    template: { name: Standard, list: 7077561 , mode: default} 
