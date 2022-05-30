@@ -4,37 +4,37 @@
 external_templates:
   repo: templates/Templates
 collections:
-  "Ant-Man":
-    template: { name: Standard, collection: 422834, poster_id: 162374 }
-  "Avengers":
-    template: { name: Standard, collection: 86311, poster_id: 162376 }
-  "Black Panther":
-    template: { name: Standard, collection: 529892, poster_id: 162378 }
-  "Captain America":
-    template: { name: Standard, collection: 131295, poster_id: 162381 }
-  "Captain Marvel":
-    template: { name: Standard, collection: 623911, poster_id: 162387 }
-  "Deadpool":
-    template: { name: Standard, collection: 448150, poster_id: 171133 }
-  "Doctor Strange": 
-    template: { name: Standard, collection: 618529, poster_id: 162388 }
-  "Guardians of the Galaxy":
-    template: { name: Standard, collection: 284433, poster_id: 162393 }
-  "Iron Man":
-    template: { name: Standard, collection: 131292, poster_id: 162395 }
-  "Marvel Cinematic Universe":
-    template: { name: Standard, list: 8194961, poster_id: 162417 }
-  "Spider-Man":
-    template: { name: Standard, collection: 556, poster_id: 171148 }
-  "Amazing Spider-Man":
-    template: { name: Standard, collection: 125574, poster_id: 171152 }
-  "Spider-Man (Avengers)":
-    template: { name: Standard, collection: 531241, poster_id: 171853 }
-  "Thor":
-    template: { name: Standard, collection: 131296, poster_id: 162406 }
-  "Venom":
-    template: { name: Standard, collection: 558216, poster_id: 162407 }
-  "Wolverine":
-    template: { name: Standard, collection: 453993, poster_id: 171121 }
-  "X-Men":
-    template: { name: Standard, collection: 748, poster_id: 171112 }
+  "Ant-Man Collection":
+    template: { name: Standard, collection: 422834 }
+  "Avengers Collection":
+    template: { name: Standard, collection: 86311 }
+  "Black Panther Collection":
+    template: { name: Standard, collection: 529892}
+  "Captain America Collection":
+    template: { name: Standard, collection: 131295}
+  "Captain Marvel Collection":
+    template: { name: Standard, collection: 623911}
+  "Deadpool Collection":
+    template: { name: Standard, collection: 448150}
+  "Doctor Strange Collection":
+    template: { name: Standard, collection: 618529}
+  "Guardians of the Galaxy Collection":
+    template: { name: Standard, collection: 284433}
+  "Iron Man Colection":
+    template: { name: Standard, collection: 131292}
+  "Marvel Cinematic Universe Collection":
+    template: { name: Standard, list: 8194961}
+  "Spider-Man Collection":
+    template: { name: Standard, collection: 556}
+  "Amazing Spider-Man Collection":
+    template: { name: Standard, collection: 125574}
+  "Spider-Man (Avengers) Collection":
+    template: { name: Standard, collection: 531241}
+  "Thor Collection":
+    template: { name: Standard, collection: 131296}
+  "Venom Collection":
+    template: { name: Standard, collection: 558216}
+  "Wolverine Collection":
+    template: { name: Standard, collection: 453993}
+  "X-Men Collection":
+    template: { name: Standard, collection: 748}
