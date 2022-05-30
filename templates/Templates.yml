@@ -32,6 +32,7 @@ templates:
       - The
     default:
       order: release
+      mode: hide_items
     optional:
       - poster_id
       - collection
@@ -50,7 +51,7 @@ templates:
     visible_library: true
     visible_home: false
     visible_shared: false
-    collection_mode: hide_items
+    collection_mode: <<mode>>
     collection_order: <<order>>
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
   TraktPlaylist:

@@ -1,0 +1,14 @@
+###################################
+# DC Extened Universe             #
+###################################
+external_templates:
+  repo: templates/Templates
+collections:
+  "Aquaman Collection":
+    template: { name: Standard, collection: 573693 }
+  "Suicide Squad Collection":
+    template: { name: Standard, collection: 531242 }
+  "Wonder Woman Collection":
+    template: { name: Standard, collection: 468552 }
+  "DC Cinematic Universe Collection":
+    template: { name: Standard, list: 7077561 , mode: show_items} 
