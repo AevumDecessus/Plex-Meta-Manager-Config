@@ -20,7 +20,7 @@ collections:
     template: { name: Standard, collection: 618529}
   "Guardians of the Galaxy Collection":
     template: { name: Standard, collection: 284433}
-  "Iron Man Colection":
+  "Iron Man Collection":
     template: { name: Standard, collection: 131292}
   "Marvel Cinematic Universe Collection":
     template: { name: Standard, list: 8194961, mode: show_items}

@@ -8,12 +8,16 @@ collections:
     template: { name: Standard, collection: 750822 }
   "Alice in Wonderland Collection":
     template: { name: Standard, collection: 261307 }
+  "Bill & Ted's Most Excellent Collection":
+    template: { name: Standard, collection: 91746 }
   "Blade Runner Collection":
     template: { name: Standard, collection: 422837 }
   "Cars Collection":
     template: { name: Standard, collection: 87118 }
   "Despicable Me Collection":
     template: { name: Standard, collection: 86066 }
+  "Divergent Collection":
+    template: { name: Standard, collection: 283579 }
   "The Expendables Collection":
     template: { name: Standard, collection: 126125 }
   "Fantastic Beasts Collection":
@@ -40,7 +44,7 @@ collections:
     template: { name: Standard, collection: 328 }
   "Kingsman Collection":
     template: { name: Standard, collection: 391860 }
-  "The Lord of the Rings Collection"
+  "The Lord of the Rings Collection":
     template: { name: Standard, collection: 119 }
   "Mad Max Collection":
     template: { name: Standard, collection: 8945 }
@@ -52,13 +56,21 @@ collections:
     template: { name: Standard, collection: 137696 }
   "Monsterverse Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/tropicsbear/lists/monsterverse?sort=rank,asc" }
+  "Night at the Museum Collection":
+    template: { name: Standard, collection: 85943 }
+  "Now You See Me Collection":
+    template: {name: Standard, collection: 382685 }
   "Pacific Rim Collection":
     template: { name: Standard, collection: 363369 }
+  "Planet of the Apes (Original) Collection":
+    template: { name: Standard, collection: 1709 }
+  "Planet of the Apes (Reboot) Collection":
+    template: { name: Standard, collection: 173710 }
   "Resident Evil Collection":
     template: { name: Standard, collection: 17255 }
   "The Santa Claus Collection":
     template: { name: Standard, collection: 53159 }
-  "The Secrer Life of Pets Collection":
+  "The Secret Life of Pets Collection":
     template: { name: Standard, collection: 427084 }
   "Sherlock Holmes Collection":
     template: { name: Standard, collection: 102322 }
@@ -68,7 +80,7 @@ collections:
     template: { name: Standard, collection: 544670 }
   "Taken Collection":
     template: { name: Standard, collection: 135483 }
-  "Toy Story Collectin":
+  "Toy Story Collection":
     template: { name: Standard, collection: 10194 }
   "Tremors Collection":
     template: { name: Standard, collection: 91799 }
