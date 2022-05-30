@@ -10,12 +10,18 @@ collections:
     template: { name: Standard, collection: 261307 }
   "Blade Runner Collection":
     template: { name: Standard, collection: 422837 }
+  "Cars Collection":
+    template: { name: Standard, collection: 87118 }
+  "Despicable Me Collection":
+    template: { name: Standard, collection: 86066 }
   "The Expendables Collection":
     template: { name: Standard, collection: 126125 }
   "Fantastic Beasts Collection":
     template: { name: Standard, collection: 435259 }
   "The Fast and the Furious Collection":
-    template: { name: Standard, collection: 9485, poster_id: 164783 }
+    template: { name: Standard, collection: 9485 }
+  "Finding Nemo Collection":
+    template: { name: Standard, collection: 137697 }
   "Harry Potter Collection":
     template: { name: Standard, collection: 1241 }
   "The Hobbit Collection":
@@ -24,8 +30,14 @@ collections:
     template: { name: Standard, collection: 9888 }
   "The Hunger Games Collection":
     template: { name: Standard, collection: 131635 }
+  "The Incredibles Collection":
+    template: { name: Standard, collection: 468222 }
   "John Wick Collection":
     template: { name: Standard, collection: 404609 }
+  "Jumanji Collection":
+    template: { name: Standard, collection: 495527, movie: 6795 }
+  "Jurassic Park Collection":
+    template: { name: Standard, collection: 328 }
   "Kingsman Collection":
     template: { name: Standard, collection: 391860 }
   "The Lord of the Rings Collection"
@@ -34,16 +46,30 @@ collections:
     template: { name: Standard, collection: 8945 }
   "The Matrix Collection":
     template: { name: Standard, collection: 2344 }
+  "Minions Collection":
+    template: { name: Standard, collection: 544669 }
+  "Monsters, Inc Collection":
+    template: { name: Standard, collection: 137696 }
+  "Monsterverse Collection":
+    template: { name: Standard, trakt: "https://trakt.tv/users/tropicsbear/lists/monsterverse?sort=rank,asc" }
   "Pacific Rim Collection":
     template: { name: Standard, collection: 363369 }
+  "Resident Evil Collection":
+    template: { name: Standard, collection: 17255 }
   "The Santa Claus Collection":
     template: { name: Standard, collection: 53159 }
+  "The Secrer Life of Pets Collection":
+    template: { name: Standard, collection: 427084 }
   "Sherlock Holmes Collection":
     template: { name: Standard, collection: 102322 }
   "Shrek Collection":
     template: { name: Standard, collection: 2150 }
+  "Sing Collection":
+    template: { name: Standard, collection: 544670 }
   "Taken Collection":
     template: { name: Standard, collection: 135483 }
+  "Toy Story Collectin":
+    template: { name: Standard, collection: 10194 }
   "Tremors Collection":
     template: { name: Standard, collection: 91799 }
   "Underworld Collection":
