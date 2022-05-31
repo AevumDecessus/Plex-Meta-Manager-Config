@@ -4,12 +4,16 @@
 external_templates:
   repo: templates/Templates
 collections:
+  "300 Collection":
+    template: { name: Standard, collection: 125570 }
   "The Addams Family (Animated) Collection":
     template: { name: Standard, collection: 750822 }
   "Alice in Wonderland Collection":
     template: { name: Standard, collection: 261307 }
   "The Angry Birds Collection":
     template: { name: Standard, collection: 531315 }
+  "Back to the Future Collection":
+    template: { name: Standard, collection: 264 }
   "Bill & Ted's Most Excellent Collection":
     template: { name: Standard, collection: 91746 }
   "Blade Runner Collection":
@@ -18,6 +22,8 @@ collections:
     template: { name: Standard, collection: 87118 }
   "Cloudy With a Chance of Meatballs Collection":
     template: { name: Standard, collection: 177467 }
+  "Cornetto Trilogy Collection":
+    template: { name: Standard, trakt: "https://trakt.tv/users/strangerer/lists/cornetto-trilogy?sort=rank,asc" }
   "Despicable Me Collection":
     template: { name: Standard, collection: 86066 }
   "Divergent Collection":
@@ -70,6 +76,10 @@ collections:
     template: { name: Standard, trakt: "https://trakt.tv/users/tropicsbear/lists/monsterverse?sort=rank,asc" }
   "Monty Python Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/miester433/lists/monty-python-collection?sort=released,asc" }
+  "National Treasure Collection":
+    template: { name: Standard, collection: 52984 }
+  "The Neverending Story Collection":
+    template: { name: Standard, collection: 91430 }
   "Night at the Museum Collection":
     template: { name: Standard, collection: 85943 }
   "Now You See Me Collection":
@@ -102,6 +112,8 @@ collections:
     template: { name: Standard, collection: 135483 }
   "Toy Story Collection":
     template: { name: Standard, collection: 10194 }
+  "The Transporter Collection":
+    template: { name: Standard, collection: 9518 }
   "Tremors Collection":
     template: { name: Standard, collection: 91799 }
   "Underworld Collection":
