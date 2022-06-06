@@ -19,7 +19,9 @@ collections:
   "Bill & Ted's Most Excellent Collection":
     template: { name: Standard, collection: 91746 }
   "Blade Runner Collection":
-    template: { name: Standard, collection: 422837 }
+    template: { name: Standard, trakt: "https://trakt.tv/users/darkman1498/lists/blade-runner?sort=rank,asc" }
+  "The Boss Baby Collection":
+    template: { name: Standard, collection: 519457 }
   "Cars Collection":
     template: { name: Standard, collection: 87118 }
   "Cloudy With a Chance of Meatballs Collection":
@@ -44,6 +46,8 @@ collections:
     template: { name: Standard, collection: 508783 }
   "Harry Potter Collection":
     template: { name: Standard, collection: 1241 }
+  "Hellboy Collection":
+    template: { name: Standard, trakt: "https://trakt.tv/users/grelipe/lists/hellboy?sort=released,desc" }
   "The Hitman's Bodyguard Collection":
     template: { name: Standard, collection: 608101 }
   "The Hobbit Collection":
@@ -56,6 +60,8 @@ collections:
     template: { name: Standard, collection: 131635 }
   "The Incredibles Collection":
     template: { name: Standard, collection: 468222 }
+  "Independence Day Collection":
+    template: { name: Standard, collection: 304378 }
   "Indiana Jones Collection":
     template: { name: Standard, collection: 84 }
   "John Wick Collection":
@@ -70,6 +76,8 @@ collections:
     template: { name: Standard, collection: 391860 }
   "Kung Fu Panda Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/wasmisch77/lists/kung-fu-panda?sort=rank,asc" }
+  "The Lego Movie Collection":
+    template: { name: Standard, trakt: "https://trakt.tv/users/darcieunicorn/lists/lego-movies?sort=added,asc": }
   "The Lord of the Rings Collection":
     template: { name: Standard, collection: 119 }
   "Mad Max Collection":
@@ -104,6 +112,8 @@ collections:
     template: { name: Standard, collection: 363369 }
   "Peter Rabbit Collection":
     template: { name: Standard, collection: 595693 }
+  "Pitch Perfect Collection":
+    template: { name: Standard, collection: 306031 }
   "Planet of the Apes (Original) Collection":
     template: { name: Standard, collection: 1709 }
   "Planet of the Apes (Reboot) Collection":
@@ -134,6 +144,8 @@ collections:
     template: { name: Standard, collection: 9518 }
   "Tremors Collection":
     template: { name: Standard, collection: 91799 }
+  "TRON Collection":
+    template: { name: Standard, collection: 63043 }
   "Underworld Collection":
     template: { name: Standard, collection: 2326 }
   "Veggie Tales Collection":
