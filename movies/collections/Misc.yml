@@ -14,6 +14,8 @@ collections:
     template: { name: Standard, collection: 531315 }
   "Back to the Future Collection":
     template: { name: Standard, collection: 264 }
+  "Bad Boys Collection":
+    template: { name: Standard, collection: 14890 }
   "Bill & Ted's Most Excellent Collection":
     template: { name: Standard, collection: 91746 }
   "Blade Runner Collection":
@@ -28,6 +30,8 @@ collections:
     template: { name: Standard, collection: 86066 }
   "Divergent Collection":
     template: { name: Standard, collection: 283579 }
+  "Evil Dead Collection":
+    template: { name: Standard, collection: 1960 }
   "The Expendables Collection":
     template: { name: Standard, collection: 126125 }
   "Fantastic Beasts Collection":
@@ -60,14 +64,22 @@ collections:
     template: { name: Standard, collection: 495527, movie: 6795 }
   "Jurassic Park Collection":
     template: { name: Standard, collection: 328 }
+  "Kick-Ass Collection":
+    template: { name: Standard, collection: 179892 }
   "Kingsman Collection":
     template: { name: Standard, collection: 391860 }
+  "Kung Fu Panda Collection":
+    template: { name: Standard, trakt: "https://trakt.tv/users/wasmisch77/lists/kung-fu-panda?sort=rank,asc" }
   "The Lord of the Rings Collection":
     template: { name: Standard, collection: 119 }
   "Mad Max Collection":
     template: { name: Standard, collection: 8945 }
   "The Matrix Collection":
     template: { name: Standard, collection: 2344 }
+  "The Maze Runner Collection":
+    template: { name: Standard, collection: 295130 }
+  "Men In Black Collection":
+    template: { name: Standard, collection: 86055 }
   "Minions Collection":
     template: { name: Standard, collection: 544669 }
   "Monsters, Inc Collection":
@@ -76,6 +88,8 @@ collections:
     template: { name: Standard, trakt: "https://trakt.tv/users/tropicsbear/lists/monsterverse?sort=rank,asc" }
   "Monty Python Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/miester433/lists/monty-python-collection?sort=released,asc" }
+  "The Mummy Collection":
+    template: { name: Standard, collection: 1733 }
   "National Treasure Collection":
     template: { name: Standard, collection: 52984 }
   "The Neverending Story Collection":
@@ -94,8 +108,12 @@ collections:
     template: { name: Standard, collection: 1709 }
   "Planet of the Apes (Reboot) Collection":
     template: { name: Standard, collection: 173710 }
+  "Rambo Collection":
+    template: { name: Standard, collection: 5039 }
   "Resident Evil Collection":
     template: { name: Standard, collection: 17255 }
+  "Rush Hour Collection":
+    template: { name: Standard, collection: 90863 }
   "The Santa Claus Collection":
     template: { name: Standard, collection: 53159 }
   "The Secret Life of Pets Collection":
