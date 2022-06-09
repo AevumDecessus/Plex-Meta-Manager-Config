@@ -106,12 +106,14 @@ templates:
     sort_title: ~96_<<collection_sort>>
     optional:
       - company
+      - trakt
       - poster_id
     sync_mode: sync
     smart_label: release.desc
     visible_library: true
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
     tmdb_company: <<company>>
+    trakt_list: <<trakt>>
     show_missing: false
     save_missing: false
   Network:
