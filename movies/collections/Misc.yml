@@ -8,10 +8,14 @@ collections:
     template: { name: Standard, collection: 125570 }
   "The Addams Family (Animated) Collection":
     template: { name: Standard, collection: 750822 }
+  "Aladdin Collection":
+    template: { name: Standard, collection: 86027 }
   "Alice in Wonderland Collection":
     template: { name: Standard, collection: 261307 }
   "Almighty Collection":
     template: { name: Standard, collection: 124949 }
+  "The Amazing Spider-Man Collection":
+    template: { name: Standard, collection: 125574 }
   "The Angry Birds Collection":
     template: { name: Standard, collection: 531315 }
   "Back to the Future Collection":
@@ -44,6 +48,8 @@ collections:
     template: { name: Standard, collection: 9485 }
   "Finding Nemo Collection":
     template: { name: Standard, collection: 137697 }
+  "Ghost Rider Collection":
+    template: { name: Standard, collection: 90306 }
   "Goosebumps Collection":
     template: { name: Standard, collection: 508783 }
   "Harry Potter Collection":
@@ -72,6 +78,8 @@ collections:
     template: { name: Standard, collection: 404609 }
   "Jumanji Collection":
     template: { name: Standard, collection: 495527, movie: 6795 }
+  "The Jungle Book Collection":
+    template: { name: Standard, collection: 97459 }
   "Jurassic Park Collection":
     template: { name: Standard, collection: 328 }
   "Kick-Ass Collection":
@@ -86,6 +94,8 @@ collections:
     template: { name: Standard, collection: 119 }
   "Mad Max Collection":
     template: { name: Standard, collection: 8945 }
+  "Madagascar Collection":
+    template: { name: Standard, collection: 14740 }
   "The Matrix Collection":
     template: { name: Standard, collection: 2344 }
   "The Maze Runner Collection":
@@ -102,6 +112,8 @@ collections:
     template: { name: Standard, trakt: "https://trakt.tv/users/miester433/lists/monty-python-collection?sort=released,asc" }
   "The Mummy Collection":
     template: { name: Standard, collection: 1733 }
+  "The Muppets Collection":
+    template: { name: Standard, collection: 256377 }
   "National Treasure Collection":
     template: { name: Standard, collection: 52984 }
   "The Neverending Story Collection":
@@ -140,8 +152,12 @@ collections:
     template: { name: Standard, collection: 544670 }
   "The Smurfs (Theatrical) Collection":
     template: { name: Standard, collection: 134897 }
+  "Spider-Man Spider-Verse Collection":
+    template: { name: Standard, collection: 573436 }
   "Taken Collection":
     template: { name: Standard, collection: 135483 }
+  "Teenage Mutant Ninja Turtles Collection":
+    template: { name: Standard, collection: 1582 }
   "Toy Story Collection":
     template: { name: Standard, collection: 10194 }
   "The Transporter Collection":
