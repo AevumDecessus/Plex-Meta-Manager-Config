@@ -18,6 +18,8 @@ collections:
     template: { name: Standard, collection: 448150}
   "Doctor Strange Collection":
     template: { name: Standard, collection: 618529}
+  "Fantastic Four Collection":
+    template: { name: Standard, collection: 9744 }
   "Guardians of the Galaxy Collection":
     template: { name: Standard, collection: 284433}
   "Iron Man Collection":
