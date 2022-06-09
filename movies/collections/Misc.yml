@@ -10,6 +10,8 @@ collections:
     template: { name: Standard, collection: 750822 }
   "Alice in Wonderland Collection":
     template: { name: Standard, collection: 261307 }
+  "Almighty Collection":
+    template: { name: Standard, collection: 124949 }
   "The Angry Birds Collection":
     template: { name: Standard, collection: 531315 }
   "Back to the Future Collection":
@@ -56,6 +58,8 @@ collections:
     template: { name: Standard, collection: 9888 }
   "Hotel Transylvania Collection":
     template: { name: Standard, collection: 185103 }
+  "How to Train Your Dragon Collection":
+    template: { name: Standard, trakt: "https://trakt.tv/users/ashleyangel/lists/how-to-train-your-dragon-world?sort=rank,asc" }
   "The Hunger Games Collection":
     template: { name: Standard, collection: 131635 }
   "The Incredibles Collection":
