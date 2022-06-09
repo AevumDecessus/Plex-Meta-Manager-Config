@@ -8,6 +8,8 @@ collections:
     template: { name: Studio, company: 9383 }
   "Dreamworks Animation":
     template: { name: Studio, company: 521 }
+  "Disney Re-Imaginings Collection":
+    template: { name: Studio, trakt: "https://trakt.tv/users/praxdbod/lists/disney-live-action-movies?sort=released,asc" }
   "Illumination Entertainment":
     template: { name: Studio, company: 6704 }
   "Pixar Animation Studios":
