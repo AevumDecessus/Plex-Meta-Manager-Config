@@ -14,8 +14,6 @@ collections:
     template: { name: Standard, collection: 261307 }
   "Almighty Collection":
     template: { name: Standard, collection: 124949 }
-  "The Amazing Spider-Man Collection":
-    template: { name: Standard, collection: 125574 }
   "The Angry Birds Collection":
     template: { name: Standard, collection: 531315 }
   "Back to the Future Collection":
@@ -48,8 +46,6 @@ collections:
     template: { name: Standard, collection: 9485 }
   "Finding Nemo Collection":
     template: { name: Standard, collection: 137697 }
-  "Ghost Rider Collection":
-    template: { name: Standard, collection: 90306 }
   "Goosebumps Collection":
     template: { name: Standard, collection: 508783 }
   "Harry Potter Collection":
@@ -89,7 +85,7 @@ collections:
   "Kung Fu Panda Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/wasmisch77/lists/kung-fu-panda?sort=rank,asc" }
   "The Lego Movie Collection":
-    template: { name: Standard, trakt: "https://trakt.tv/users/darcieunicorn/lists/lego-movies?sort=added,asc": }
+    template: { name: Standard, trakt: "https://trakt.tv/users/darcieunicorn/lists/lego-movies?sort=added,asc" }
   "The Lord of the Rings Collection":
     template: { name: Standard, collection: 119 }
   "Mad Max Collection":
@@ -152,8 +148,6 @@ collections:
     template: { name: Standard, collection: 544670 }
   "The Smurfs (Theatrical) Collection":
     template: { name: Standard, collection: 134897 }
-  "Spider-Man Spider-Verse Collection":
-    template: { name: Standard, collection: 573436 }
   "Taken Collection":
     template: { name: Standard, collection: 135483 }
   "Teenage Mutant Ninja Turtles Collection":

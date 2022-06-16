@@ -4,6 +4,8 @@
 external_templates:
   repo: templates/Templates
 collections:
+  "The Amazing Spider-Man Collection":
+    template: { name: Standard, collection: 125574}
   "Ant-Man Collection":
     template: { name: Standard, collection: 422834 }
   "Avengers Collection":
@@ -20,6 +22,8 @@ collections:
     template: { name: Standard, collection: 618529}
   "Fantastic Four Collection":
     template: { name: Standard, collection: 9744 }
+  "Ghost Rider Collection":
+    template: { name: Standard, collection: 90306 }
   "Guardians of the Galaxy Collection":
     template: { name: Standard, collection: 284433}
   "Iron Man Collection":
@@ -28,10 +32,10 @@ collections:
     template: { name: Standard, list: 8194961, mode: default}
   "Spider-Man Collection":
     template: { name: Standard, collection: 556}
-  "Amazing Spider-Man Collection":
-    template: { name: Standard, collection: 125574}
   "Spider-Man (Avengers) Collection":
     template: { name: Standard, collection: 531241}
+  "Spider-Man Spider-Verse Collection":
+    template: { name: Standard, collection: 573436 }
   "Thor Collection":
     template: { name: Standard, collection: 131296}
   "Venom Collection":
