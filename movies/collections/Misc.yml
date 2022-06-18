@@ -36,6 +36,8 @@ collections:
     template: { name: Standard, collection: 86066 }
   "Divergent Collection":
     template: { name: Standard, collection: 283579 }
+  "Dumb and Dumber Collection":
+    template: { name: Standard, collection: 96665 }
   "Evil Dead Collection":
     template: { name: Standard, collection: 1960 }
   "The Expendables Collection":
@@ -46,8 +48,12 @@ collections:
     template: { name: Standard, collection: 9485 }
   "Finding Nemo Collection":
     template: { name: Standard, collection: 137697 }
+  "Free Willy Collection":
+    template: { name: Standard, collection: 9328 }
   "Goosebumps Collection":
     template: { name: Standard, collection: 508783 }
+  "The Gremlins Collection":
+    template: { name: Standard, collection: 89151 }
   "Harry Potter Collection":
     template: { name: Standard, collection: 1241 }
   "Hellboy Collection":
@@ -58,6 +64,8 @@ collections:
     template: { name: Standard, collection: 121938 }
   "Home Alone Collection":
     template: { name: Standard, collection: 9888 }
+  "Hot Tub Time Machine Collection":
+    template: { name: Standard, collection: 313576 }
   "Hotel Transylvania Collection":
     template: { name: Standard, collection: 185103 }
   "How to Train Your Dragon Collection":
@@ -72,6 +80,8 @@ collections:
     template: { name: Standard, collection: 84 }
   "John Wick Collection":
     template: { name: Standard, collection: 404609 }
+  "Journey Collection":
+    template: { name: Standard, collection: 605516 }
   "Jumanji Collection":
     template: { name: Standard, collection: 495527, movie: 6795 }
   "The Jungle Book Collection":
@@ -100,6 +110,8 @@ collections:
     template: { name: Standard, collection: 86055 }
   "Minions Collection":
     template: { name: Standard, collection: 544669 }
+  "Miss Congeniality Collection":
+    template: { name: Standard, collection: 93220 }
   "Monsters, Inc Collection":
     template: { name: Standard, collection: 137696 }
   "Monsterverse Collection":
@@ -110,6 +122,8 @@ collections:
     template: { name: Standard, collection: 1733 }
   "The Muppets Collection":
     template: { name: Standard, collection: 256377 }
+  "My Big Fat Greek Wedding Collection":
+    template: { name: Standard, collection: 389767 }
   "National Treasure Collection":
     template: { name: Standard, collection: 52984 }
   "The Neverending Story Collection":
@@ -122,14 +136,22 @@ collections:
     template: { name: Standard, collection: 66761 }
   "Pacific Rim Collection":
     template: { name: Standard, collection: 363369 }
+  "Percy Jackson Collection":
+    template: { name: Standard, collection: 179919 }
   "Peter Rabbit Collection":
     template: { name: Standard, collection: 595693 }
+  "The Pink Panther (Original) Collection":
+    template: { name: Standard, collection: 937 }
+  "The Pink Panther (Steve Martin) Collection":
+    template: { name: Standard, collection: 130440 }
   "Pitch Perfect Collection":
     template: { name: Standard, collection: 306031 }
   "Planet of the Apes (Original) Collection":
     template: { name: Standard, collection: 1709 }
   "Planet of the Apes (Reboot) Collection":
     template: { name: Standard, collection: 173710 }
+  "Police Academy Collection":
+    template: { name: Standard, collection: 9338 }
   "Rambo Collection":
     template: { name: Standard, collection: 5039 }
   "Resident Evil Collection":
@@ -152,6 +174,10 @@ collections:
     template: { name: Standard, collection: 135483 }
   "Teenage Mutant Ninja Turtles Collection":
     template: { name: Standard, collection: 1582 }
+  "The Robert Langdon Collection":
+    template: { name: Standard, collection: 115776 }
+  "Tomb Raider Collection":
+    template: { name: Standard, trakt: "https://trakt.tv/users/vargajoe/lists/tomb-raider?sort=rank,asc" }
   "Toy Story Collection":
     template: { name: Standard, collection: 10194 }
   "The Transporter Collection":
@@ -162,5 +188,11 @@ collections:
     template: { name: Standard, collection: 63043 }
   "Underworld Collection":
     template: { name: Standard, collection: 2326 }
+  "Wreck-It Ralph Collection":
+    template: { name: Standard, collection: 404825 }
   "Veggie Tales Collection":
     template: { name: Standard, list: 8201803 }
+  "xXx Collection":
+    template: { name: Standard, collection: 52785 }
+  "Zombieland Collection":
+    template: { name: Standard, collection: 537982 }
