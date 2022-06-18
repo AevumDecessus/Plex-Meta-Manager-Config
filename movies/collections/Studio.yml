@@ -4,6 +4,8 @@
 external_templates:
   repo: templates/Templates
 collections:
+  "Aardman Animation":
+    template: { name: Studio, company: 297 }
   "Blue Sky Studios":
     template: { name: Studio, company: 9383 }
   "Dreamworks Animation":

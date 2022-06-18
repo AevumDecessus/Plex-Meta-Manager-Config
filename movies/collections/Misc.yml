@@ -32,6 +32,8 @@ collections:
     template: { name: Standard, collection: 177467 }
   "Cornetto Trilogy Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/strangerer/lists/cornetto-trilogy?sort=rank,asc" }
+  "The Croods Collection":
+    template: { name: Standard, collection: 464577 }
   "Despicable Me Collection":
     template: { name: Standard, collection: 86066 }
   "Divergent Collection":
@@ -50,6 +52,8 @@ collections:
     template: { name: Standard, collection: 137697 }
   "Free Willy Collection":
     template: { name: Standard, collection: 9328 }
+  "Frozen Collection":
+    template: { name: Standard, collection: 386382 }
   "Goosebumps Collection":
     template: { name: Standard, collection: 508783 }
   "The Gremlins Collection":
@@ -64,6 +68,8 @@ collections:
     template: { name: Standard, collection: 121938 }
   "Home Alone Collection":
     template: { name: Standard, collection: 9888 }
+  "Honey I Shrunk the Kids Collection":
+    template: { name: Standard, collection: 72119 }
   "Hot Tub Time Machine Collection":
     template: { name: Standard, collection: 313576 }
   "Hotel Transylvania Collection":
@@ -78,6 +84,8 @@ collections:
     template: { name: Standard, collection: 304378 }
   "Indiana Jones Collection":
     template: { name: Standard, collection: 84 }
+  "Ip Man Collection":
+    template: { name: Standard, collection: 70068 }
   "John Wick Collection":
     template: { name: Standard, collection: 404609 }
   "Journey Collection":
@@ -124,6 +132,8 @@ collections:
     template: { name: Standard, collection: 256377 }
   "My Big Fat Greek Wedding Collection":
     template: { name: Standard, collection: 389767 }
+  "Naked Gun Collection":
+    template: { name: Standard, collection: 37139 }
   "National Treasure Collection":
     template: { name: Standard, collection: 52984 }
   "The Neverending Story Collection":
@@ -152,6 +162,8 @@ collections:
     template: { name: Standard, collection: 173710 }
   "Police Academy Collection":
     template: { name: Standard, collection: 9338 }
+  "The Princess Diaries Collection":
+    template: { name: Standard, collection: 107674 }
   "Rambo Collection":
     template: { name: Standard, collection: 5039 }
   "Resident Evil Collection":
@@ -188,6 +200,8 @@ collections:
     template: { name: Standard, collection: 63043 }
   "Underworld Collection":
     template: { name: Standard, collection: 2326 }
+  "Willy Wonka Collection":
+    template: { name: Standard, trakt: "https://trakt.tv/users/aevumdecessus/lists/willy-wonka-collection?sort=released,asc" }
   "Wreck-It Ralph Collection":
     template: { name: Standard, collection: 404825 }
   "Veggie Tales Collection":
