@@ -29,7 +29,7 @@ playlists:
     sync_mode: sync
     sync_to_users: all
     schedule: weekly(sunday)
-  "This Playlist Needs A Name":
+  "For Mumskla":
     trakt_list: https://trakt.tv/users/luthienazaelia/lists/for-mumskla?sort=rank,asc
     libraries: Movies
     sync_mode: sync
