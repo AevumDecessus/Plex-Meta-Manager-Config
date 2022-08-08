@@ -34,10 +34,16 @@ collections:
     template: { name: Standard, trakt: "https://trakt.tv/users/strangerer/lists/cornetto-trilogy?sort=rank,asc" }
   "The Croods Collection":
     template: { name: Standard, collection: 464577 }
+  "Cube Collection":
+    template: { name: Standard, collection: 432 }
+  "Death Race Collection":
+    template: { name: Standard, collection: 86116 }
   "Despicable Me Collection":
     template: { name: Standard, collection: 86066 }
   "Divergent Collection":
     template: { name: Standard, collection: 283579 }
+  "Dollars Trilogy Collection":
+    template: { name: Standard, imdb: "https://www.imdb.com/list/ls000415568/" }
   "Dumb and Dumber Collection":
     template: { name: Standard, collection: 96665 }
   "Evil Dead Collection":
@@ -72,6 +78,8 @@ collections:
     template: { name: Standard, collection: 72119 }
   "Hot Tub Time Machine Collection":
     template: { name: Standard, collection: 313576 }
+  "Hot Shots Collection":
+    template: { name: Standard, collection: 52988 }
   "Hotel Transylvania Collection":
     template: { name: Standard, collection: 185103 }
   "How to Train Your Dragon Collection":
@@ -98,18 +106,26 @@ collections:
     template: { name: Standard, collection: 328 }
   "Kick-Ass Collection":
     template: { name: Standard, collection: 179892 }
+  "Kill Bill Collection":
+    template: { name: Standard, collection: 2883 }
   "Kingsman Collection":
     template: { name: Standard, collection: 391860 }
   "Kung Fu Panda Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/wasmisch77/lists/kung-fu-panda?sort=rank,asc" }
   "The Lego Movie Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/darcieunicorn/lists/lego-movies?sort=added,asc" }
+  "Lilo & Stitch Collection":
+    template: { name: Standard, collection: 97461 }
   "The Lord of the Rings Collection":
     template: { name: Standard, collection: 119 }
   "Mad Max Collection":
     template: { name: Standard, collection: 8945 }
   "Madagascar Collection":
     template: { name: Standard, collection: 14740 }
+  "Maleficient Collection":
+    template: { name: Standard, collection: 531331 }
+  "Mary Poppins Collection":
+    template: { name: Standard, collection: 527439 }
   "The Matrix Collection":
     template: { name: Standard, collection: 2344 }
   "The Maze Runner Collection":
@@ -148,6 +164,8 @@ collections:
     template: { name: Standard, collection: 363369 }
   "Percy Jackson Collection":
     template: { name: Standard, collection: 179919 }
+  "Peter Pan Collection":
+    template: { name: Standard, collection: 55422 }
   "Peter Rabbit Collection":
     template: { name: Standard, collection: 595693 }
   "The Pink Panther (Original) Collection":
@@ -176,12 +194,22 @@ collections:
     template: { name: Standard, collection: 427084 }
   "Sherlock Holmes Collection":
     template: { name: Standard, collection: 102322 }
+  "Short Circuit Collection":
+    template: { name: Standard, collection: 86347 }
   "Shrek Collection":
     template: { name: Standard, collection: 2150 }
   "Sing Collection":
     template: { name: Standard, collection: 544670 }
   "The Smurfs (Theatrical) Collection":
     template: { name: Standard, collection: 134897 }
+  "Space Jam Collection":
+    template: { name: Standard, collection: 722961 }
+  "Speed Collection":
+    template: { name: Standard, collection: 43064 }
+  "Stargate SG-1 Collection":
+    template: { name: Standard, collection: 44215 }
+  "Starship Troopers Collection":
+    template: { name: Standard, collection: 10522 }
   "Taken Collection":
     template: { name: Standard, collection: 135483 }
   "Teenage Mutant Ninja Turtles Collection":
