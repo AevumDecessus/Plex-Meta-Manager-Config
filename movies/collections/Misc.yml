@@ -122,7 +122,7 @@ collections:
     template: { name: Standard, collection: 8945 }
   "Madagascar Collection":
     template: { name: Standard, collection: 14740 }
-  "Maleficient Collection":
+  "Maleficent Collection":
     template: { name: Standard, collection: 531331 }
   "Mary Poppins Collection":
     template: { name: Standard, collection: 527439 }
