@@ -116,6 +116,8 @@ collections:
     template: { name: Standard, trakt: "https://trakt.tv/users/wasmisch77/lists/kung-fu-panda?sort=rank,asc" }
   "The Lego Movie Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/darcieunicorn/lists/lego-movies?sort=added,asc" }
+  "The Librarian Collection":
+    template: { name: Standard, collection: 85890 }
   "Lilo & Stitch Collection":
     template: { name: Standard, collection: 97461 }
   "The Lord of the Rings Collection":
