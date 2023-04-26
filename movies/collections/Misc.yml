@@ -196,8 +196,6 @@ collections:
     template: { name: Standard, collection: 53159 }
   "The Secret Life of Pets Collection":
     template: { name: Standard, collection: 427084 }
-  "Star Trek Alternate Reality Collection":
-
   "Sherlock Holmes Collection":
     template: { name: Standard, collection: 102322 }
   "Short Circuit Collection":

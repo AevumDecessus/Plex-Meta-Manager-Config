@@ -8,6 +8,8 @@ collections:
     template: { name: Standard, collection: 573693 }
   "DC Cinematic Universe Collection":
     template: { name: Standard, list: 7077561 , mode: default}
+  "Man of Steel Collection":
+    template: { name: Standard, collection: 209131 }
   "Shazam! Collection":
     template: { name: Standard, collection: 724848 }
   "Suicide Squad Collection":
