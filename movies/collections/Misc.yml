@@ -96,6 +96,8 @@ collections:
     template: { name: Standard, collection: 84 }
   "Ip Man Collection":
     template: { name: Standard, collection: 70068 }
+  "James Bond Collection":
+    template: { name: Standard, collection: 645 }
   "John Wick Collection":
     template: { name: Standard, collection: 404609 }
   "Journey Collection":
