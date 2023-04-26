@@ -196,6 +196,8 @@ collections:
     template: { name: Standard, collection: 53159 }
   "The Secret Life of Pets Collection":
     template: { name: Standard, collection: 427084 }
+  "Star Trek Alternate Reality Collection":
+
   "Sherlock Holmes Collection":
     template: { name: Standard, collection: 102322 }
   "Short Circuit Collection":
@@ -214,6 +216,12 @@ collections:
     template: { name: Standard, collection: 44215 }
   "Starship Troopers Collection":
     template: { name: Standard, collection: 10522 }
+  "Star Trek Alternate Reality Collection":
+    template: { name: Standard, collection: 115575 }
+  "Star Trek The Next Generation Collection":
+    template: { name: Standard, collection: 115570 }
+  "Star Trek The Original Series Collection":
+    template: { name: Standard, collection: 151 }
   "Taken Collection":
     template: { name: Standard, collection: 135483 }
   "Teenage Mutant Ninja Turtles Collection":
