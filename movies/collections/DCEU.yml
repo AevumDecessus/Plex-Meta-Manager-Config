@@ -6,9 +6,11 @@ external_templates:
 collections:
   "Aquaman Collection":
     template: { name: Standard, collection: 573693 }
+  "DC Cinematic Universe Collection":
+    template: { name: Standard, list: 7077561 , mode: default}
+  "Shazam! Collection":
+    template: { name: Standard, collection: 724848 }
   "Suicide Squad Collection":
     template: { name: Standard, collection: 531242 }
   "Wonder Woman Collection":
     template: { name: Standard, collection: 468552 }
-  "DC Cinematic Universe Collection":
-    template: { name: Standard, list: 7077561 , mode: default} 
