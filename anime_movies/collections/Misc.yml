@@ -1,0 +1,8 @@
+##########################################
+# Miscellaneous Anime Movies Collections #
+##########################################
+external_templates:
+  repo: templates/Templates
+collections:
+  "Ghost In The Shell- Arise Collection":
+    template: { name: Standard, collection: 196753 }
