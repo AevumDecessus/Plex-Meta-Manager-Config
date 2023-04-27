@@ -1,0 +1,14 @@
+###################################
+# Marvel Based Collections        #
+###################################
+external_templates:
+  repo: templates/Templates
+collections:
+  "Star Wars Collection":
+    template: { name: Standard, collection: 10 }
+  "Star Wars Original Trilogy":
+    template: { name: Standard, trakt: "https://trakt.tv/users/aevumdecessus/lists/star-wars-original-trilogy" }
+  "Star Wars Prequel Trilogy":
+    template: { name: Standard, trakt: "https://trakt.tv/users/aevumdecessus/lists/star-wars-prequel-trilogy" }
+  "Star Wars Sequel Trilogy":
+    template: { name: Standard, trakt: "https://trakt.tv/users/aevumdecessus/lists/star-wars-sequel-trilogy" }
