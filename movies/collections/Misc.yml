@@ -20,6 +20,8 @@ collections:
     template: { name: Standard, collection: 264 }
   "Bad Boys Collection":
     template: { name: Standard, collection: 14890 }
+  "Balto Collection":
+    template: { name: Standard, collection: 117693 }
   "Battle Royale Collection":
     template: { name: Standard, collection: 16302 }
   "Bill & Ted's Most Excellent Collection":
