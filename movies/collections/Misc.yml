@@ -196,6 +196,8 @@ collections:
     template: { name: Standard, collection: 17255 }
   "Rush Hour Collection":
     template: { name: Standard, collection: 90863 }
+  "The Sandlot Collection":
+    template: { name: Standard, collection: 87214 }
   "The Santa Claus Collection":
     template: { name: Standard, collection: 53159 }
   "The Secret Life of Pets Collection":
