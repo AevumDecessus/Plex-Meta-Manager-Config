@@ -200,6 +200,8 @@ collections:
     template: { name: Standard, collection: 9338 }
   "The Princess Diaries Collection":
     template: { name: Standard, collection: 107674 }
+  "Puss in Boots Collection":
+    template: { name: Standard, collection: 94602 }
   "Rambo Collection":
     template: { name: Standard, collection: 5039 }
   "Resident Evil Collection":
