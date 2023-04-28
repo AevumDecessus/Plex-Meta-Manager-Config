@@ -8,3 +8,5 @@ collections:
     template: { name: Standard, collection: 390636 }
   "Ghost In The Shell- Arise Collection":
     template: { name: Standard, collection: 196753 }
+  "Patlabor Collection":
+    template: { name: Standard, collection: 98435 }
