@@ -10,3 +10,5 @@ collections:
     template: { name: Standard, collection: 196753 }
   "Patlabor Collection":
     template: { name: Standard, collection: 98435 }
+  "Rebuild of Evangelion Collection":
+    template: { name: Standard, collection: 210303 }
