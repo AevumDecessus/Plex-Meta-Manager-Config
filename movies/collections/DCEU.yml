@@ -6,6 +6,8 @@ external_templates:
 collections:
   "Aquaman Collection":
     template: { name: Standard, collection: 573693 }
+  "The Dark Knight Collection":
+    template: { name: Standard, collection: 263 }
   "DC Cinematic Universe Collection":
     template: { name: Standard, list: 7077561 , mode: default}
   "Man of Steel Collection":
