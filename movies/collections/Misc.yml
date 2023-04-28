@@ -6,6 +6,8 @@ external_templates:
 collections:
   "300 Collection":
     template: { name: Standard, collection: 125570 }
+  "47 Ronin Collection":
+    template: { name: Standard, collection: 732461 }
   "The Addams Family (Animated) Collection":
     template: { name: Standard, collection: 750822 }
   "Aladdin Collection":
