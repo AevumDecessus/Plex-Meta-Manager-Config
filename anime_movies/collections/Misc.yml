@@ -4,5 +4,7 @@
 external_templates:
   repo: templates/Templates
 collections:
+  "Fate-Stay Night- Heaven's Feel Collection":
+    template: { name: Standard, collection: 390636 }
   "Ghost In The Shell- Arise Collection":
     template: { name: Standard, collection: 196753 }
