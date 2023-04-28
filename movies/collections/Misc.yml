@@ -202,6 +202,8 @@ collections:
     template: { name: Standard, collection: 53159 }
   "The Secret Life of Pets Collection":
     template: { name: Standard, collection: 427084 }
+  "The Secret of NIMH Collection":
+    template: { name: Standard, collection: 141292 }
   "Sherlock Holmes Collection":
     template: { name: Standard, collection: 102322 }
   "Short Circuit Collection":
