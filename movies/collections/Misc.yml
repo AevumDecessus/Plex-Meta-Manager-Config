@@ -80,6 +80,8 @@ collections:
     template: { name: Standard, collection: 9888 }
   "Honey I Shrunk the Kids Collection":
     template: { name: Standard, collection: 72119 }
+  "Hoodwinked! Collection":
+    template: { name: Standard, collection: 87255 }
   "Hot Tub Time Machine Collection":
     template: { name: Standard, collection: 313576 }
   "Hot Shots Collection":
