@@ -52,6 +52,8 @@ collections:
     template: { name: Standard, imdb: "https://www.imdb.com/list/ls000415568/" }
   "Dumb and Dumber Collection":
     template: { name: Standard, collection: 96665 }
+  "Enchanted Collection":
+    template: { name: Standard, collection: 531799 }
   "Evil Dead Collection":
     template: { name: Standard, collection: 1960 }
   "The Expendables Collection":
