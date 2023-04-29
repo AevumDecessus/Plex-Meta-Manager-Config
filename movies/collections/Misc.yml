@@ -238,6 +238,8 @@ collections:
     template: { name: Standard, collection: 456 }
   "The Smurfs (Theatrical) Collection":
     template: { name: Standard, collection: 134897 }
+  "Sonic the Hedgehog Collection":
+    template: { name: Standard, collection: 720879 }
   "Space Jam Collection":
     template: { name: Standard, collection: 722961 }
   "Speed Collection":
