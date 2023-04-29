@@ -78,6 +78,8 @@ collections:
     template: { name: Standard, collection: 386382 }
   "Futurama Collection":
     template: { name: Standard, collection: 13800 }
+  "The Gods Must Be Crazy Collection":
+    template: { name: Standard, collection: 87805 }
   "Goosebumps Collection":
     template: { name: Standard, collection: 508783 }
   "The Gremlins Collection":
