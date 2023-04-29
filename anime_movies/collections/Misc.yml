@@ -4,6 +4,8 @@
 external_templates:
   repo: templates/Templates
 collections:
+  "Bleach- The Complete Collection":
+    template: { name: Standard, collection: 23497 }
   "Fate-Stay Night- Heaven's Feel Collection":
     template: { name: Standard, collection: 390636 }
   "Ghost In The Shell- Arise Collection":
