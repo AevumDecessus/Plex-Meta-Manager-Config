@@ -226,6 +226,8 @@ collections:
     template: { name: Standard, collection: 2150 }
   "Sing Collection":
     template: { name: Standard, collection: 544670 }
+  "Sissi Collection":
+    template: { name: Standard, collection: 456 }
   "The Smurfs (Theatrical) Collection":
     template: { name: Standard, collection: 134897 }
   "Space Jam Collection":
