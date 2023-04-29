@@ -214,6 +214,8 @@ collections:
     template: { name: Standard, collection: 5039 }
   "Resident Evil Collection":
     template: { name: Standard, collection: 17255 }
+  "The Robert Langdon Collection":
+    template: { name: Standard, collection: 115776 }
   "Rush Hour Collection":
     template: { name: Standard, collection: 90863 }
   "The Sandlot Collection":
@@ -254,8 +256,8 @@ collections:
     template: { name: Standard, collection: 135483 }
   "Teenage Mutant Ninja Turtles Collection":
     template: { name: Standard, collection: 1582 }
-  "The Robert Langdon Collection":
-    template: { name: Standard, collection: 115776 }
+  "The Thin Man Collection":
+    template: { name: Standard, collection: 47814 }
   "Tomb Raider Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/vargajoe/lists/tomb-raider?sort=rank,asc" }
   "Toy Story Collection":
