@@ -1,22 +1,52 @@
 external_templates:
   repo: templates/Templates
 collections:
+  Action:
+    template: { name: MAL Genre, genre_id: 1, poster_id: 231619 }
+  Adventure:
+    template: { name: MAL Genre, genre_id: 2, poster_id: 213632 }
   Cars:
     template: { name: MAL Genre, genre_id: 3 }
+  Comedy:
+    template: { name: MAL Genre, genre_id: 4, poster_id: 231634 }
   Demons:
     template: { name: MAL Genre, genre_id: 6, poster_id: 231635 }
+  Drama:
+    template: { name: MAL Genre, genre_id: 8, poster_id: 231627 }
+  Fantasy:
+    template: { name: MAL Genre, genre_id: 10, poster_id: 231622 }
   Game:
     template: { name: MAL Genre, genre_id: 11, poster_id: 231628 }
+  Gourmet:
+    template: { name: MAL Genre, genre_id: 47, poster_id: 231629 }
+  Historical:
+    template: { name: MAL Genre, genre_id: 13, poster_id: 231638 }
+  Horror:
+    template: { name: MAL Genre, genre_id: 14, poster_id: 231639 }
+  Martial Arts:
+    template: { name: MAL Genre, genre_id: 17, poster_id: 231641 }
   Mecha:
     template: { name: MAL Genre, genre_id: 18, poster_id: 213668 }
   Military:
     template: { name: MAL Genre, genre_id: 38 }
+  Music:
+    template: { name: MAL Genre, genre_id: 19, poster_id: 231624 }
+  Mystery:
+    template: { name: MAL Genre, genre_id: 7, poster_id: 231623 }
+  Parody:
+    template: { name: MAL Genre, genre_id: 20 }
+  Police:
+    template: { name: MAL Genre, genre_id: 39 }
   Psychological:
     template: { name: MAL Genre, genre_id: 40 }
+  Romance:
+    template: { name: MAL Genre, genre_id: 22, poster_id: 231646 }
   Samurai:
     template: { name: MAL Genre, genre_id: 21, poster_id: 231626 }
   School:
     template: { name: MAL Genre, genre_id: 23 }
+  Sci-Fi:
+    template: { name: MAL Genre, genre_id: 24, poster_id: 231640 }
   Shoujo:
     template: { name: MAL Genre, genre_id: 25 }
   Shounen:
@@ -25,43 +55,13 @@ collections:
     template: { name: MAL Genre, genre_id: 36, poster_id: 231647}
   Space:
     template: { name: MAL Genre, genre_id: 29, poster_id: 231648 }
+  Sports:
+    template: { name: MAL Genre, genre_id: 30, poster_id: 231625 }
   Supernatural:
     template: { name: MAL Genre, genre_id: 37, poster_id: 213670}
   Super Power:
     template: { name: MAL Genre, genre_id: 31, poster_id: 213659 }
-  Vampire:
-    template: { name: MAL Genre, genre_id: 32, poster_id: 231618 }
-  Action:
-    template: { name: MAL Genre, genre_id: 1, poster_id: 231619 }
-  Adventure:
-    template: { name: MAL Genre, genre_id: 2, poster_id: 213632 }
-  Comedy:
-    template: { name: MAL Genre, genre_id: 4, poster_id: 231634 }
-  Drama:
-    template: { name: MAL Genre, genre_id: 8, poster_id: 231627 }
-  Fantasy:
-    template: { name: MAL Genre, genre_id: 10, poster_id: 231622 }
-  Historical:
-    template: { name: MAL Genre, genre_id: 13, poster_id: 231638 }
-  Horror:
-    template: { name: MAL Genre, genre_id: 14, poster_id: 231639 }
-  Martial Arts:
-    template: { name: MAL Genre, genre_id: 17, poster_id: 231641 }
-  Music:
-    template: { name: MAL Genre, genre_id: 19, poster_id: 231624 }
-  Mystery:
-    template: { name: MAL Genre, genre_id: 7, poster_id: 231623 }
-  Romance:
-    template: { name: MAL Genre, genre_id: 22, poster_id: 231646 }
-  Sci-Fi:
-    template: { name: MAL Genre, genre_id: 24, poster_id: 231640 }
-  Sports:
-    template: { name: MAL Genre, genre_id: 30, poster_id: 231625 }
-  Gourmet:
-    template: { name: MAL Genre, genre_id: 47, poster_id: 231629 }
-  Parody:
-    template: { name: MAL Genre, genre_id: 20 }
-  Police:
-    template: { name: MAL Genre, genre_id: 39 }
   Thriller:
     template: { name: MAL Genre, genre_id: 41, poster_id: 231621 }
+  Vampire:
+    template: { name: MAL Genre, genre_id: 32, poster_id: 231618 }
