@@ -23,6 +23,8 @@ collections:
     template: { name: MAL Genre, genre_id: 13, poster_id: 231638 }
   Horror:
     template: { name: MAL Genre, genre_id: 14, poster_id: 231639 }
+  Isekai:
+    template: { name: MAL Genre, genre_id: 62 }
   Martial Arts:
     template: { name: MAL Genre, genre_id: 17, poster_id: 231641 }
   Mecha:
