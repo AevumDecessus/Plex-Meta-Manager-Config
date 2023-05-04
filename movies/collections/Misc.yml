@@ -22,6 +22,8 @@ collections:
     template: { name: Standard, collection: 809185 }
   "Asterix & Obelix Collection":
     template: { name: Standard, collection: 2396 }
+  "Asterix & Obelix (Animation) Collection":
+    template: { name: Standard, collection: 94039 }
   "Avatar Collection":
     template: { name: Standard, collection: 87096 }
   "Back to the Future Collection":
