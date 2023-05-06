@@ -272,6 +272,8 @@ collections:
     template: { name: Standard, collection: 91799 }
   "TRON Collection":
     template: { name: Standard, collection: 63043 }
+  "Under Siege Collection":
+    template: { name: Standard, collection: 112399 }
   "Underworld Collection":
     template: { name: Standard, collection: 2326 }
   "Willy Wonka Collection":
