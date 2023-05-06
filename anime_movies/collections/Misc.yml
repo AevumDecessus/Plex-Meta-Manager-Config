@@ -14,3 +14,5 @@ collections:
     template: { name: Standard, collection: 98435 }
   "Rebuild of Evangelion Collection":
     template: { name: Standard, collection: 210303 }
+  "The Seven Deadly Sins Collection":
+    template: { name: Standard, collection: 703485 }
