@@ -64,6 +64,8 @@ collections:
     template: { name: Standard, collection: 96665 }
   "Dungeons & Dragons Collection":
     template: { name: Standard, collection: 196498 }
+  "Elizabeth Collection":
+    template: { name: Standard, collection: 100286 }
   "Enchanted Collection":
     template: { name: Standard, collection: 531799 }
   "Evil Dead Collection":
