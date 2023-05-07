@@ -224,6 +224,8 @@ collections:
     template: { name: Standard, collection: 5039 }
   "Resident Evil Collection":
     template: { name: Standard, collection: 17255 }
+  "Rio Collection":
+    template: { name: Standard, collection: 229932 }
   "The Robert Langdon Collection":
     template: { name: Standard, collection: 115776 }
   "Rush Hour Collection":
