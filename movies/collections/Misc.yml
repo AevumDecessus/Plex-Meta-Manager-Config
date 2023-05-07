@@ -116,6 +116,8 @@ collections:
     template: { name: Standard, trakt: "https://trakt.tv/users/ashleyangel/lists/how-to-train-your-dragon-world?sort=rank,asc" }
   "The Hunger Games Collection":
     template: { name: Standard, collection: 131635 }
+  "Ice Age Collection":
+    template: { name: Standard, collection: 8354 }
   "The Incredibles Collection":
     template: { name: Standard, collection: 468222 }
   "Independence Day Collection":
