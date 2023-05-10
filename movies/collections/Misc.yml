@@ -270,6 +270,8 @@ collections:
     template: { name: Standard, collection: 151 }
   "Taken Collection":
     template: { name: Standard, collection: 135483 }
+  "Ted Collection":
+    template: { name: Standard, collection: 266672 }
   "Teenage Mutant Ninja Turtles Collection":
     template: { name: Standard, collection: 1582 }
   "The Thin Man Collection":
