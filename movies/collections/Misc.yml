@@ -96,6 +96,8 @@ collections:
     template: { name: Standard, collection: 1241 }
   "Hellboy Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/grelipe/lists/hellboy?sort=released,desc" }
+  "Hitman Collection":
+    template: { name: Standard, collection: 737031 }
   "The Hitman's Bodyguard Collection":
     template: { name: Standard, collection: 608101 }
   "The Hobbit Collection":
