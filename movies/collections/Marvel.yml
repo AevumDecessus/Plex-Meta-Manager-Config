@@ -12,6 +12,8 @@ collections:
     template: { name: Standard, collection: 86311 }
   "Black Panther Collection":
     template: { name: Standard, collection: 529892}
+  "Blade Collection":
+    template: { name: Standard, collection: 735 }
   "Captain America Collection":
     template: { name: Standard, collection: 131295}
   "Captain Marvel Collection":
