@@ -236,6 +236,8 @@ collections:
     template: { name: Standard, collection: 87214 }
   "The Santa Claus Collection":
     template: { name: Standard, collection: 53159 }
+  "Scary Movie Collection":
+    template: { name: Standard, collection: 4246 }
   "The Secret Life of Pets Collection":
     template: { name: Standard, collection: 427084 }
   "The Secret of NIMH Collection":
