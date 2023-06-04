@@ -10,6 +10,8 @@ collections:
     template: { name: Standard, collection: 732461 }
   "The Addams Family (Animated) Collection":
     template: { name: Standard, collection: 750822 }
+  "Addams Family Collection":
+    template: { name: Standard, collection: 11716 }
   "Aladdin Collection":
     template: { name: Standard, collection: 86027 }
   "Alice in Wonderland Collection":
