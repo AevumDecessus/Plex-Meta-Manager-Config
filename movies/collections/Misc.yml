@@ -18,6 +18,8 @@ collections:
     template: { name: Standard, collection: 261307 }
   "Alien Complete Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/truebrit1963/lists/alien?sort=released,desc" }
+  "Alvin and the Chipmunks Collection":
+    template: { name: Standard, collection: 167613 }
   "Almighty Collection":
     template: { name: Standard, collection: 124949 }
   "The Angry Birds Collection":
