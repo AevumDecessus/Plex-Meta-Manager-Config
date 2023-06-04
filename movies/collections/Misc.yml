@@ -16,6 +16,8 @@ collections:
     template: { name: Standard, collection: 86027 }
   "Alice in Wonderland Collection":
     template: { name: Standard, collection: 261307 }
+  "Alien Complete Collection":
+    template: { name: Standard, trakt: "https://trakt.tv/users/truebrit1963/lists/alien?sort=released,desc" }
   "Almighty Collection":
     template: { name: Standard, collection: 124949 }
   "The Angry Birds Collection":
