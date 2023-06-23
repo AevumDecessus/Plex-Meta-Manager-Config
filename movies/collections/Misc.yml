@@ -22,6 +22,8 @@ collections:
     template: { name: Standard, collection: 167613 }
   "Almighty Collection":
     template: { name: Standard, collection: 124949 }
+  "An American Tail Collection":
+    template: { name: Standard, collection: 8783 }
   "The Angry Birds Collection":
     template: { name: Standard, collection: 531315 }
   "Army of the Dead Collection":
