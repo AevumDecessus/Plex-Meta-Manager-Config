@@ -48,6 +48,8 @@ collections:
     template: { name: Standard, trakt: "https://trakt.tv/users/darkman1498/lists/blade-runner?sort=rank,asc" }
   "The Boss Baby Collection":
     template: { name: Standard, collection: 519457 }
+  "The Bourne Collection":
+    template: { name: Standard, collection: 31562 }
   "Brother Bear Collection":
     template: { name: Standard, collection: 964722 }
   "Cars Collection":
