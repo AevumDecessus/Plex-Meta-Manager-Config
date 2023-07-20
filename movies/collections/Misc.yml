@@ -282,6 +282,8 @@ collections:
     template: { name: Standard, collection: 115570 }
   "Star Trek The Original Series Collection":
     template: { name: Standard, collection: 151 }
+  "Super Troopers Collection":
+    template: { name: Standard, collection: 449462 }
   "Taken Collection":
     template: { name: Standard, collection: 135483 }
   "Ted Collection":
