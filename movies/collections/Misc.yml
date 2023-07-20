@@ -52,6 +52,8 @@ collections:
     template: { name: Standard, collection: 519457 }
   "The Bourne Collection":
     template: { name: Standard, collection: 31562 }
+  "The Brave Little Toaster Collection":
+    template: { name: Standard, collection: 141282 }
   "Brother Bear Collection":
     template: { name: Standard, collection: 964722 }
   "Cars Collection":
