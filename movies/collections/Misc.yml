@@ -58,6 +58,8 @@ collections:
     template: { name: Standard, collection: 96472 }
   "Cars Collection":
     template: { name: Standard, collection: 87118 }
+  "The Chronicles of Riddick Collection":
+    template: { name: Standard, collection: 2794 }
   "Cloudy With a Chance of Meatballs Collection":
     template: { name: Standard, collection: 177467 }
   "Cornetto Trilogy Collection":
