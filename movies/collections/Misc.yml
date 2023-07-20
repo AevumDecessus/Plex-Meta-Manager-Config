@@ -64,6 +64,8 @@ collections:
     template: { name: Standard, collection: 86116 }
   "Despicable Me Collection":
     template: { name: Standard, collection: 86066 }
+  "Die Hard Collection":
+    template: { name: Standard, collection: 1570 }
   "Dirty Dancing Collection":
     template: { name: Standard, collection: 86058 }
   "Divergent Collection":
