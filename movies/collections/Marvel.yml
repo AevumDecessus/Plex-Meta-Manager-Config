@@ -32,6 +32,8 @@ collections:
     template: { name: Standard, collection: 131292}
   "Marvel Cinematic Universe Collection":
     template: { name: Standard, list: 8194961, mode: default}
+  "Marvel Rising Collection":
+    template: { name: Standard, collection: 627234 }
   "Spider-Man Collection":
     template: { name: Standard, collection: 556}
   "Spider-Man (Avengers) Collection":
