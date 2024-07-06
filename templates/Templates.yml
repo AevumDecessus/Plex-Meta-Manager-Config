@@ -48,7 +48,7 @@ templates:
     tmdb_list: <<list>>
     imdb_list: <<imdb>>
     trakt_list: <<trakt>>
-    visible_library: true
+    visible_library: false
     visible_home: false
     visible_shared: false
     collection_mode: <<mode>>
@@ -74,7 +74,7 @@ templates:
       validate: false
     tmdb_person: <<person>>
     sort_title: +6_<<collection_sort>>
-    visible_library: true
+    visible_library: false
     show_missing: false
     save_missing: false
   MAL Genre:
@@ -110,7 +110,7 @@ templates:
       - poster_id
     sync_mode: sync
     smart_label: release.desc
-    visible_library: true
+    visible_library: false
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
     tmdb_company: <<company>>
     trakt_list: <<trakt>>
@@ -123,7 +123,7 @@ templates:
       - poster_id
     sync_mode: sync
     smart_label: release.desc
-    visible_library: true
+    visible_library: false
     tmdb_network: <<networks>>
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
     show_missing: false
