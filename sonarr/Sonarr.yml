@@ -5,3 +5,5 @@ collections:
     schedule: daily
     label: sonarr-all
     collection_mode: hide
+    show_missing: false
+    save_report: false
