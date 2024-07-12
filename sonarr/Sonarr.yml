@@ -1,0 +1,7 @@
+collections:
+  Sonarr-All:
+    sonarr_all: true
+    sync_mode: sync
+    schedule: daily
+    label: sonarr-all
+    collection_mode: hide
