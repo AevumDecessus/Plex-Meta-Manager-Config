@@ -35,3 +35,8 @@ playlists:
     sync_mode: sync
     test: true
     sync_to_users: LuthienAzaelia, dangar800
+  "Catherine Shenanigans"
+    trakt_list: https://trakt.tv/lists/28636530?sort=rank,asc
+    libraries: Movies
+    sync_mode: sync
+    sync_to_users: LuthienAzaelia, catherinegeering
