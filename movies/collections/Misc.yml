@@ -86,6 +86,8 @@ collections:
     template: { name: Standard, imdb: "https://www.imdb.com/list/ls000415568/" }
   "Dumb and Dumber Collection":
     template: { name: Standard, collection: 96665 }
+  "Dune Collection":
+    template: { name: Standard, collection: 726871 }
   "Dungeons & Dragons Collection":
     template: { name: Standard, collection: 196498 }
   "Elizabeth Collection":
@@ -200,32 +202,50 @@ collections:
     template: { name: Standard, collection: 544669 }
   "Miss Congeniality Collection":
     template: { name: Standard, collection: 93220 }
+  "Mission Impossible Collection":
+    template: { name: Standard, collection: 87359 }
+  "Moana Collection":
+    template: {name: Standard, collection: 1241984 }
   "Monsters, Inc Collection":
     template: { name: Standard, collection: 137696 }
   "Monsterverse Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/tropicsbear/lists/monsterverse?sort=rank,asc" }
   "Monty Python Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/miester433/lists/monty-python-collection?sort=released,asc" }
+  "Mulan Collection":
+    teamplte: { name: Standard, collection: 87236 }
   "The Mummy Collection":
     template: { name: Standard, collection: 1733 }
   "The Muppets Collection":
     template: { name: Standard, collection: 256377 }
   "My Big Fat Greek Wedding Collection":
     template: { name: Standard, collection: 389767 }
+  "My Girl Collection":
+    template: { name: Standard, collection: 85960 }
   "Naked Gun Collection":
     template: { name: Standard, collection: 37139 }
   "National Treasure Collection":
     template: { name: Standard, collection: 52984 }
+  "Nativity Collection":
+    template: { name: Standard, collection: 239595 }
+  "Neighbors Collection":
+    template: { name: Standard, collection: 400700 }
   "The Neverending Story Collection":
     template: { name: Standard, collection: 91430 }
   "Night at the Museum Collection":
     template: { name: Standard, collection: 85943 }
   "Now You See Me Collection":
     template: { name: Standard, collection: 382685 }
+  "Ocean's Collection":
+    template: { name: Standard, collection: 304 }
+  "The Old Guard Collection":
+    template: { name: Standard, collection: 847029 }
   "Open Season Collection":
     template: { name: Standard, collection: 66761 }
   "Pacific Rim Collection":
     template: { name: Standard, collection: 363369 }
+  "Paddington Collection":
+    template: { name: Standard, collection: 488924 }
   "Percy Jackson Collection":
     template: { name: Standard, collection: 179919 }
   "Peter Pan Collection":
@@ -236,6 +256,8 @@ collections:
     template: { name: Standard, collection: 937 }
   "The Pink Panther (Steve Martin) Collection":
     template: { name: Standard, collection: 130440 }
+  "Pirates of the Caribbean Collection":
+    template: { name: Standard, collection: 295 }
   "Pitch Perfect Collection":
     template: { name: Standard, collection: 306031 }
   "Planet of the Apes (Original) Collection":
@@ -246,10 +268,20 @@ collections:
     template: { name: Standard, collection: 9338 }
   "The Princess Diaries Collection":
     template: { name: Standard, collection: 107674 }
+  "Psych Collection":
+    template: { name: Standard, collection: 718934 }
   "Puss in Boots Collection":
     template: { name: Standard, collection: 94602 }
+  "A Quiet Place Collection":
+    template: { name: Standard, collection: 521226 }
   "Rambo Collection":
     template: { name: Standard, collection: 5039 }
+  "Rebel Moon Collection":
+    template: { name: Standard, collection: 934765 }
+  "RED Collection":
+    template: { name: Standard, collection: 163902 }
+  "The Rescuers Collection":
+    template: { name: Standard, collection: 57971 }
   "Resident Evil Collection":
     template: { name: Standard, collection: 17255 }
   "Rio Collection":
@@ -280,6 +312,10 @@ collections:
     template: { name: Standard, collection: 544670 }
   "Sissi Collection":
     template: { name: Standard, collection: 456 }
+  "Sister Act Collection":
+    template: { name: Standard, collection: 103573 }
+  "The Sisterhood of the Traveling Pants Collection":
+    template: { name: Standard. collection: 17368 }
   "The Smurfs (Theatrical) Collection":
     template: { name: Standard, collection: 134897 }
   "Sonic the Hedgehog Collection":
