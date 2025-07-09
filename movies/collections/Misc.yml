@@ -89,7 +89,7 @@ collections:
   "Dune Collection":
     template: { name: Standard, collection: 726871 }
   "Dungeons & Dragons Collection":
-    template: { name: Standard, collection: 196498 }
+    template: { name: Standard, collection: 106498 }
   "Elizabeth Collection":
     template: { name: Standard, collection: 100286 }
   "Enchanted Collection":
