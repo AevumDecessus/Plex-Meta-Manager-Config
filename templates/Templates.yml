@@ -101,6 +101,18 @@ templates:
     show_missing: false
     save_missing: false
     collection_order: alpha
+  MAL Studio:
+    move_prefix: A, An, The
+    optional:
+      - poster_id
+    sort_title: ~90_<<collection_sort>>
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/<<poster_id>>
+    mal_search:
+      studio: <<studio>>
+    show_missing: false
+    save_missing: false
+    collection_order: alpha
   Studio:
     move_prefix: A, An, The
     sort_title: ~96_<<collection_sort>>

@@ -1,0 +1,9 @@
+external_templates:
+  repo: templates/Templates
+collections:
+  Sunrise:
+    template: { name: MAL Studio, studio: 14, poster_id: 156756 }
+  Studio Deen:
+    template: { name: MAL Studio, studio: 37, poster_id: 419518 }
+  Toei Animation:
+    template: { name: MAL Studio, studio: 18, poster_id: 156760 }
