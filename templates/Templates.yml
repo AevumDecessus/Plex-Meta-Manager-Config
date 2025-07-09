@@ -84,7 +84,7 @@ templates:
     sort_title: ~91_<<collection_sort>>
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/<<poster_id>>
-    mal_genre:
+    mal_search:
       genre: <<genre_id>>
     show_missing: false
     save_missing: false
