@@ -205,7 +205,7 @@ collections:
   "Mission Impossible Collection":
     template: { name: Standard, collection: 87359 }
   "Moana Collection":
-    template: {name: Standard, collection: 1241984 }
+    template: { name: Standard, collection: 1241984 }
   "Monsters, Inc Collection":
     template: { name: Standard, collection: 137696 }
   "Monsterverse Collection":
@@ -213,7 +213,7 @@ collections:
   "Monty Python Collection":
     template: { name: Standard, trakt: "https://trakt.tv/users/miester433/lists/monty-python-collection?sort=released,asc" }
   "Mulan Collection":
-    teamplte: { name: Standard, collection: 87236 }
+    template: { name: Standard, collection: 87236 }
   "The Mummy Collection":
     template: { name: Standard, collection: 1733 }
   "The Muppets Collection":
@@ -315,7 +315,7 @@ collections:
   "Sister Act Collection":
     template: { name: Standard, collection: 103573 }
   "The Sisterhood of the Traveling Pants Collection":
-    template: { name: Standard. collection: 17368 }
+    template: { name: Standard, collection: 17368 }
   "The Smurfs (Theatrical) Collection":
     template: { name: Standard, collection: 134897 }
   "Sonic the Hedgehog Collection":
