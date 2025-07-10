@@ -32,18 +32,24 @@ collections:
     template: { name: Standard, collection: 2396 }
   "Asterix & Obelix (Animation) Collection":
     template: { name: Standard, collection: 94039 }
+  "Atlantis Collection":
+    template: { name: Standard, collection: 100965 }
   "Avatar Collection":
     template: { name: Standard, collection: 87096 }
   "Back to the Future Collection":
     template: { name: Standard, collection: 264 }
   "Bad Boys Collection":
     template: { name: Standard, collection: 14890 }
+  "The Bad Guys Collection":
+    template: { name: Standard, collection: 1231053 }
   "Balto Collection":
     template: { name: Standard, collection: 117693 }
   "Barbershop Collection":
     template: { name: Standard, collection: 176097 }
   "Battle Royale Collection":
     template: { name: Standard, collection: 16302 }
+  "Beverly Hills Cop Collection":
+    template: { name: Standard, collection: 85861 }
   "Bill & Ted's Most Excellent Collection":
     template: { name: Standard, collection: 91746 }
   "Blade Runner Collection":
