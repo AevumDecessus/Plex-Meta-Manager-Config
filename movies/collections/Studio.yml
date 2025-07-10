@@ -9,7 +9,7 @@ collections:
   "Blue Sky Studios":
     template: { name: Studio, company: 9383 }
   "Don Bluth Animation":
-    template: { name: Studio, company 6422 }
+    template: { name: Studio, company: 6422 }
   "Dreamworks Animation":
     template: { name: Studio, company: 521 }
   "Disney Re-Imaginings Collection":
