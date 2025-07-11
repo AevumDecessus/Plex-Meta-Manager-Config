@@ -1,11 +1,11 @@
 # Directories
-assets
-logs
-overlays
-reports
+assets/
+logs/
+overlays/
+reports/
 # Cache/templates
-config.cache                                                                                                                                                     │
-config.yml.template                                                                                                                                              │
+*.cache
+*.template
 config_static.yml
 # History Files
 .ash_history
