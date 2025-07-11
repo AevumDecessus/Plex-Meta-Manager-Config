@@ -1,4 +1,12 @@
+# Directories
 assets
 logs
 overlays
 reports
+# Cache/templates
+config.cache                                                                                                                                                     │
+config.yml.template                                                                                                                                              │
+config_static.yml
+# History Files
+.ash_history
+.bash_history
