@@ -40,7 +40,6 @@ templates:
       - imdb
       - movie
       - trakt
-      - order
     sort_title: <<collection_sort>>
     sync_mode: sync
     tmdb_collection: <<collection>>
