@@ -9,7 +9,7 @@ collections:
   "The Dark Knight Collection":
     template: { name: Standard, collection: 263 }
   "DC Cinematic Universe Collection":
-    template: { name: Standard, list: 7077561 , mode: default}
+    template: { name: Standard, imdb_list: ls046609392, mode: default}
   "Man of Steel Collection":
     template: { name: Standard, collection: 209131 }
   "Shazam! Collection":
