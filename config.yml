@@ -6,6 +6,7 @@ libraries:
     collection_files:
     - repo: movies/collections/Charts
       asset_directory: /config/assets/movies/charts
+      test: true
     - repo: movies/collections/DCEU
       asset_directory: /config/assets/movies/dceu
     - repo: movies/collections/Marvel
