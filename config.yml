@@ -1,0 +1,256 @@
+libraries:
+  Movies:
+    library_name: Movies
+    settings:
+      asset_directory: /config/assets/movies
+    collection_files:
+    - repo: movies/collections/Charts
+      asset_directory: /config/assets/movies/charts
+    - repo: movies/collections/DCEU
+      asset_directory: /config/assets/movies/dceu
+    - repo: movies/collections/Marvel
+      asset_directory: /config/assets/movies/marvel
+    - repo: movies/collections/Misc
+      asset_directory: /config/assets/movies/misc
+    - repo: movies/collections/Star_Wars
+      asset_directory: /config/assets/movies/star_wars
+    - repo: movies/collections/Studio
+      asset_directory: /config/assets/movies/studios
+    overlay_files:
+    - default: resolution
+      template_variables:
+        use_resolution: false
+        use_edition: true
+    - default: mediastinger
+    radarr:
+      root_folder_path: /media/movies
+    operations:
+      assets_for_all: true
+      delete_unmanaged_collections: true
+  TV:
+    settings:
+      asset_directory: /config/assets/tv
+    collection_files:
+    - repo: tv/collections/Charts
+      asset_directory: /config/assets/tv/charts
+    - repo: sonarr/Sonarr.yml
+    sonarr:
+      root_folder_path: /media/tank1_tv
+    operations:
+      assets_for_all: true
+      delete_unmanaged_collections: true
+  Kids-TV:
+    library_name: Kids TV
+    settings:
+      asset_directory: /config/assets/kids_tv
+    collection_files:
+    - repo: sonarr/Sonarr.yml
+    sonarr:
+      root_folder_path: /media/kids_tv
+    operations:
+      assets_for_all: true
+      delete_unmanaged_collections: true
+  Anime:
+    settings:
+      asset_directory: /config/assets/anime
+    collection_files:
+    - repo: anime/collections/Charts
+      asset_directory: /config/assets/anime
+    - repo: anime/collections/Genre
+      asset_directory: /config/assets/anime
+    - repo: anime/collections/Studio
+      asset_directory: /config/assets/anime
+    - repo: sonarr/Sonarr.yml
+    sonarr:
+      url: <<sonarr-anime-url>>
+      token: <<sonarr-anime-token>>
+      root_folder_path: /media/anime
+      quality_profile: Remux-1080p - Anime
+      monitor: none
+      series_type: anime
+      search: true
+      sonarr_path: /media/anime
+      plex_path: /media/anime
+      add_missing: false
+      add_existing: false
+      upgrade_existing: false
+      monitor_existing: false
+      ignore_cache: false
+      season_folder: true
+      cutoff_search: false
+    operations:
+      assets_for_all: true
+      delete_unmanaged_collections: true
+  Anime Movies:
+    settings:
+      asset_directory: /config/assets/anime_movies
+    collection_files:
+    - repo: anime/collections/Charts
+    - repo: anime_movies/collections/Misc
+    radarr:
+      url: <<radarr-anime-url>>
+      token: <<radarr-anime-token>>
+      root_folder_path: /media/anime_movies
+      monitor: none
+      search: true
+      radarr_path: /media/anime_movies
+      plex_path: /media/anime_movies
+      add_missing: false
+      add_existing: false
+      upgrade_existing: false
+      monitor_existing: false
+      ignore_cache: false
+      monitor: false
+      availability: announced
+      quality_profile: Remux-1080p - Anime
+    operations:
+      assets_for_all: true
+      delete_unmanaged_collections: true
+  Cartoons:
+    settings:
+      asset_directory: /config/assets/cartoons
+    collection_files:
+    - repo: cartoons/collections/Networks
+    - repo: sonarr/Sonarr.yml
+    sonarr:
+      root_folder_path: /media/cartoons
+      monitor: none
+      language_profile: English
+      series_type: standard
+      sonarr_path: /media/cartoons
+      plex_path: /media/cartoons
+      add_missing: false
+      add_existing: false
+      upgrade_existing: false
+      monitor_existing: false
+      ignore_cache: false
+      season_folder: true
+      search: false
+      cutoff_search: false
+    operations:
+      assets_for_all: true
+      delete_unmanaged_collections: true
+playlist_files:
+  repo: Playlists
+settings:
+  cache: true
+  cache_expiration: 60
+  asset_directory: /config/assets
+  asset_folders: true
+  asset_depth: 2
+  create_asset_folders: true
+  dimensional_asset_rename: false
+  download_url_assets: true
+  show_missing_season_assets: true
+  show_missing_episode_assets: false
+  show_asset_not_needed: false
+  sync_mode: append
+  minimum_items: 1
+  default_collection_order:
+  delete_below_minimum: true
+  delete_not_scheduled: false
+  run_again_delay: 2
+  only_filter_missing: false
+  show_unmanaged: true
+  show_filtered: false
+  show_options: false
+  show_missing: true
+  show_missing_assets: true
+  report_path: /config/reports
+  missing_only_released: true
+  save_missing: true
+  tvdb_language: eng
+  ignore_ids:
+  ignore_imdb_ids:
+  item_refresh_delay: 0
+  verify_ssl: true
+  custom_repo: https://raw.githubusercontent.com/AevumDecessus/kometa-config/main/
+  playlist_sync_to_users: all
+  prioritize_assets: false
+  playlist_report: true
+  check_nightly: false
+  show_unconfigured: true
+  playlist_exclude_users:
+  run_order:
+  - operations
+  - metadata
+  - collections
+  - overlays
+  overlay_artwork_filetype: jpg
+  overlay_artwork_quality:
+  show_unfiltered: false
+plex:
+  url: <<plexurl>>
+  token: <<plextoken>>
+  timeout: 60
+  clean_bundle: false
+  empty_trash: false
+  optimize: false
+  clean_bundles: false
+  db_cache:
+  verify_ssl:
+tmdb:
+  apikey: <<tmdb-apikey>>
+  language: en
+  cache_expiration: 60
+  region:
+radarr:
+  url: <<radarr-url>>
+  token: <<radarr-token>>
+  add_missing: false
+  add_existing: false
+  monitor: false
+  root_folder_path: /media/movies
+  availability: announced
+  quality_profile: Remux + WEB 1080p
+  tag:
+  search: false
+  radarr_path:
+  plex_path:
+  upgrade_existing: false
+  ignore_cache: false
+  monitor_existing: false
+sonarr:
+  url: <<sonarr-url>>
+  token: <<sonarr-token>>
+  add_missing: false
+  add_existing: false
+  monitor: none
+  root_folder_path: /media/tank1_tv
+  quality_profile: WEB-1080p
+  language_profile: English
+  series_type: standard
+  season_folder: true
+  tag:
+  search: false
+  cutoff_search: false
+  sonarr_path:
+  plex_path:
+  upgrade_existing: false
+  ignore_cache: false
+  monitor_existing: false
+tautulli:
+  url: <<tautulli-url>>
+  apikey: <<tautulli-apikey>>
+trakt:
+  client_id: <<trakt-clientid>>
+  client_secret: <<trakt-clientsecret>>
+  pin:
+  authorization:
+    access_token: <<trakt-accesstoken>>
+    token_type: Bearer
+    expires_in: 7889238
+    refresh_token: <<trakt-refreshtoken>>
+    scope: public
+    created_at: 1752082170
+mal:
+  client_id: <<mal-clientid>>
+  client_secret: <<mal-clientsecret>>
+  authorization:
+    access_token: <<mal-accesstoken>>
+    token_type: Bearer
+    expires_in: 2592000
+    refresh_token: <<mal-refreshtoken>>
+    localhost_url:
+  cache_expiration: 60
+  localhost_url:
