@@ -101,7 +101,6 @@ libraries:
       upgrade_existing: false
       monitor_existing: false
       ignore_cache: false
-      monitor: false
       availability: announced
       quality_profile: Remux-1080p - Anime
     operations:
@@ -200,7 +199,7 @@ radarr:
   token: <<radarr-token>>
   add_missing: false
   add_existing: false
-  monitor: false
+  monitor: none
   root_folder_path: /media/movies
   availability: announced
   quality_profile: Remux + WEB 1080p
