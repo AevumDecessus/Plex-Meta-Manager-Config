@@ -56,6 +56,8 @@ collections:
     template: { name: Standard, trakt: "https://trakt.tv/users/darkman1498/lists/blade-runner?sort=rank,asc" }
   "The Boondock Saints Collection":
     template: { name: Standard, collection: 87186 }
+  "Borat Moviefilms Collection":
+    template: { name: Standard, collection: 747168 }
   "The Boss Baby Collection":
     template: { name: Standard, collection: 519457 }
   "The Bourne Collection":
