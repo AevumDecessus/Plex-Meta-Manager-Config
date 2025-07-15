@@ -8,6 +8,8 @@ collections:
     template: { name: Standard, collection: 125570 }
   "47 Ronin Collection":
     template: { name: Standard, collection: 732461 }
+  "The Accountant Collection":
+    template: { name: Standard, collection: 870339 }
   "The Addams Family (Animated) Collection":
     template: { name: Standard, collection: 750822 }
   "Addams Family Collection":
