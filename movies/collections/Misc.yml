@@ -100,6 +100,8 @@ collections:
     template: { name: Standard, collection: 106498 }
   "Elizabeth Collection":
     template: { name: Standard, collection: 100286 }
+  "The Emperor's New Groove Collection":
+    template: { name: Standard, collection: 178117 }
   "Enchanted Collection":
     template: { name: Standard, collection: 531799 }
   "Escape Plan Collection":
