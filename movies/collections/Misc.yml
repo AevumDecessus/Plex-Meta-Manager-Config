@@ -130,6 +130,8 @@ collections:
     template: { name: Standard, collection: 508783 }
   "The Gremlins Collection":
     template: { name: Standard, collection: 89151 }
+  "Happy Gilmore Collection":
+    template: { name: Standard, collection: 1263259 }
   "Harry Potter Collection":
     template: { name: Standard, collection: 1241 }
   "Hellboy Collection":
